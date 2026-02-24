@@ -214,6 +214,24 @@
       flex-wrap: wrap;
     }
 
+    .source-url {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.7rem;
+      color: var(--text-tertiary);
+      margin-bottom: 0.75rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .source-url a {
+      color: var(--text-tertiary);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .source-url a:hover { color: var(--accent); }
+
     .tags { display: flex; gap: 0.35rem; flex-wrap: wrap; }
 
     .tag {
@@ -292,6 +310,7 @@
           <h4><a href="https://www.cnbc.com/2026/02/17/figma-anthropic-ai-code-designs.html" target="_blank">Figma × Anthropic: Code to Canvas</a></h4>
           <span class="verdict try">Try it</span>
         </div>
+        <div class="source-url"><a href="https://www.cnbc.com/2026/02/17/figma-anthropic-ai-code-designs.html" target="_blank">cnbc.com/2026/02/17/figma-anthropic-ai-code-designs</a></div>
         <p class="desc">Brand new feature (launched Feb 17). Type "Send this to Figma" in Claude Code and your AI-generated UI becomes fully editable Figma layers. Uses Figma's Model Context Protocol. This is a game-changer for our pipeline — Claude Code output goes directly into Figma for design refinement instead of the other way around.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -308,6 +327,7 @@
           <h4><a href="https://developers.figma.com/docs/plugins/updates/" target="_blank">Figma Make — AI-Generated Interactive React Apps</a></h4>
           <span class="verdict try">Try it</span>
         </div>
+        <div class="source-url"><a href="https://developers.figma.com/docs/plugins/updates/" target="_blank">developers.figma.com/docs/plugins/updates</a></div>
         <p class="desc">Figma's own AI feature that generates interactive React applications from text prompts, images, or existing design frames. Announced at Config/Schema 2025 and actively improving. Competes directly with v0 and Bolt but lives inside Figma — zero context-switching.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -323,6 +343,7 @@
           <h4><a href="https://designforonline.com/5-ai-tools-you-should-know-about-in-2026/" target="_blank">Google Stitch (formerly Galileo AI)</a></h4>
           <span class="verdict try">Try it</span>
         </div>
+        <div class="source-url"><a href="https://designforonline.com/5-ai-tools-you-should-know-about-in-2026/" target="_blank">designforonline.com/5-ai-tools-you-should-know-about-in-2026</a></div>
         <p class="desc">Google acquired Galileo AI and relaunched it as Stitch at Google I/O 2025. Powered by Gemini 3 Pro. Key feature: one-click export to Figma. Generate a concept in Stitch → export → refine in Figma. This could replace the wireframing phase for standard layouts.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -339,6 +360,7 @@
           <h4><a href="https://almcorp.com/blog/anthropic-claude-apps-slack-figma-workplace-integration-2026/" target="_blank">Claude Apps — Interactive Integrations for Figma & More</a></h4>
           <span class="verdict watch">Watch</span>
         </div>
+        <div class="source-url"><a href="https://almcorp.com/blog/anthropic-claude-apps-slack-figma-workplace-integration-2026/" target="_blank">almcorp.com/blog/anthropic-claude-apps-slack-figma-workplace-integration-2026</a></div>
         <p class="desc">Anthropic launched Claude Apps (Jan 2026) with integrations for Figma, Slack, Canva, Box, and 6 others. The Figma integration focuses on diagramming and collaborative design. Early days but signals Anthropic's deeper push into design tooling.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -359,6 +381,7 @@
           <h4><a href="https://medium.com/@EmiliaBiblioKit/the-world-of-design-systems-is-no-longer-just-about-components-and-libraries-its-about-5beecc0d21cb" target="_blank">Figma Code Connect — Link Components to Production Code</a></h4>
           <span class="verdict try">Try it</span>
         </div>
+        <div class="source-url"><a href="https://medium.com/@EmiliaBiblioKit/the-world-of-design-systems-is-no-longer-just-about-components-and-libraries-its-about-5beecc0d21cb" target="_blank">medium.com/@EmiliaBiblioKit/the-world-of-design-systems...</a></div>
         <p class="desc">The 2026 standard for design-to-dev handoff. Link your Figma components directly to production code (React, Swift, Android). Replaces the "handoff phase" with continuous synchronization. If we set this up with our design system, Claude Code gets direct component references.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -375,6 +398,7 @@
           <h4><a href="https://www.producthunt.com/categories/figma-plugins" target="_blank">Dualite — Figma Flows to React/Tailwind Code</a></h4>
           <span class="verdict try">Try it</span>
         </div>
+        <div class="source-url"><a href="https://www.producthunt.com/categories/figma-plugins" target="_blank">producthunt.com/categories/figma-plugins</a></div>
         <p class="desc">New Figma plugin that converts design flows into React + Tailwind CSS code. Highlighted on Product Hunt as a notable 2026 addition. Could pair well with our Claude Code pipeline — design in Figma, export with Dualite, refine with Claude.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -396,6 +420,7 @@
           <h4><a href="https://www.codespell.ai/blog/10-best-figma-to-code-tools-in-2025-why-codespell-ai-is-the-enterprise-choice" target="_blank">Codespell.ai — Enterprise Figma-to-Code</a></h4>
           <span class="verdict watch">Watch</span>
         </div>
+        <div class="source-url"><a href="https://www.codespell.ai/blog/10-best-figma-to-code-tools-in-2025-why-codespell-ai-is-the-enterprise-choice" target="_blank">codespell.ai/blog/10-best-figma-to-code-tools...</a></div>
         <p class="desc">Positioning as the enterprise choice for Figma-to-code. Claims higher fidelity output than Locofy/Anima. Worth testing against our current Figma MCP workflow to compare output quality.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -410,6 +435,7 @@
           <h4><a href="https://designforonline.com/5-ai-tools-you-should-know-about-in-2026/" target="_blank">Google Pomelli — AI Brand Content Generator</a></h4>
           <span class="verdict watch">Watch</span>
         </div>
+        <div class="source-url"><a href="https://designforonline.com/5-ai-tools-you-should-know-about-in-2026/" target="_blank">designforonline.com/5-ai-tools-you-should-know-about-in-2026</a></div>
         <p class="desc">Google Labs experiment. Give it your URL → it analyzes brand DNA (colors, fonts, tone) → generates social/ad/email content on-brand. Now includes Pomelli Animate (Veo 3.1) for short-form video. Free beta in US/CA/AU/NZ. Not a design tool per se, but could handle the marketing/content side so designers focus on product.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -426,6 +452,7 @@
           <h4><a href="https://designforonline.com/5-ai-tools-you-should-know-about-in-2026/" target="_blank">Seedance 2.0 — ByteDance's 2K AI Video with Lip-Sync</a></h4>
           <span class="verdict watch">Watch</span>
         </div>
+        <div class="source-url"><a href="https://designforonline.com/5-ai-tools-you-should-know-about-in-2026/" target="_blank">designforonline.com/5-ai-tools-you-should-know-about-in-2026</a></div>
         <p class="desc">ByteDance dropped Seedance 2.0 (Feb 2026) — 2K resolution, native audio with lip-sync, multi-modal input (text + images + video + audio). Cinematic quality beating Sora and Veo in some areas. Relevant for product videos and design presentations.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -446,6 +473,7 @@
           <h4><a href="https://www.techradar.com/pro/best-vibe-coding-tools" target="_blank">v0 by Vercel — 100M+ Interactions, $250M Raise</a></h4>
           <span class="verdict try">Try it</span>
         </div>
+        <div class="source-url"><a href="https://www.techradar.com/pro/best-vibe-coding-tools" target="_blank">techradar.com/pro/best-vibe-coding-tools</a></div>
         <p class="desc">Vercel raised $250M in late 2025 specifically for v0 development. Product surpassed 100M user interactions. Now has Figma integration for design-to-code. Pricing: $5 free credits then $20/mo. The momentum here is real — this is becoming the default for React UI generation.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -462,6 +490,7 @@
           <h4><a href="https://www.sixtythirtyten.co/blog/from-figma-to-code-ai-design-to-dev-workflows-in-2026" target="_blank">Anima — IBM Investment, Enterprise Push</a></h4>
           <span class="verdict watch">Watch</span>
         </div>
+        <div class="source-url"><a href="https://www.sixtythirtyten.co/blog/from-figma-to-code-ai-design-to-dev-workflows-in-2026" target="_blank">sixtythirtyten.co/blog/from-figma-to-code-ai-design-to-dev-workflows-in-2026</a></div>
         <p class="desc">IBM invested in Anima in February 2026, validating its enterprise positioning for design-to-code. Anima converts Figma designs to React, Vue, HTML with responsive behavior. The IBM backing could mean better enterprise integrations coming.</p>
         <div class="finding-footer">
           <div class="tags">
@@ -478,6 +507,7 @@
           <h4><a href="https://stocktwits.com/news-articles/markets/equity/figma-gets-better-as-ai-gets-better-says-ceo-as-stock-soars-on-strong-results/cZRK41FR4wR" target="_blank">Figma: 200+ Features in 2025, Expanded to 8 Products</a></h4>
           <span class="verdict try">Try it</span>
         </div>
+        <div class="source-url"><a href="https://stocktwits.com/news-articles/markets/equity/figma-gets-better-as-ai-gets-better-says-ceo-as-stock-soars-on-strong-results/cZRK41FR4wR" target="_blank">stocktwits.com/...figma-gets-better-as-ai-gets-better</a></div>
         <p class="desc">Dylan Field confirmed Figma shipped 200+ features and expanded from 4 to 8 products in 2025. Carrying that velocity into 2026 with AI partnerships (Anthropic, OpenAI, ServiceNow). The platform is evolving fast — worth auditing which new native features replace our current plugin workarounds.</p>
         <div class="finding-footer">
           <div class="tags">
