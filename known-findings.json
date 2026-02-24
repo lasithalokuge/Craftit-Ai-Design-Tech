@@ -1,0 +1,17 @@
+{
+  "description": "Index of all findings already added to ai-design-research.html. Used to prevent duplicates.",
+  "findings": [
+    {"id": "figma-code-to-canvas", "title": "Figma x Anthropic: Code to Canvas", "date": "2026-02-24", "category": "hot"},
+    {"id": "figma-make", "title": "Figma Make — AI generates interactive React apps from prompts", "date": "2026-02-24", "category": "hot"},
+    {"id": "google-stitch", "title": "Google Stitch (formerly Galileo AI) — AI-to-Figma design generator", "date": "2026-02-24", "category": "hot"},
+    {"id": "claude-apps-figma", "title": "Claude Apps — Anthropic's interactive integrations for Figma, Slack, etc.", "date": "2026-02-24", "category": "hot"},
+    {"id": "figma-code-connect", "title": "Figma Code Connect — Link components to production code", "date": "2026-02-24", "category": "tip"},
+    {"id": "dualite-plugin", "title": "Dualite — Figma plugin: flows to React/Tailwind", "date": "2026-02-24", "category": "tip"},
+    {"id": "codespell-ai", "title": "Codespell.ai — Enterprise Figma-to-code with AI", "date": "2026-02-24", "category": "radar"},
+    {"id": "anima-ibm-investment", "title": "Anima — IBM invested Feb 2026, enterprise design-to-code", "date": "2026-02-24", "category": "update"},
+    {"id": "google-pomelli", "title": "Google Pomelli — AI brand content generator from your URL", "date": "2026-02-24", "category": "radar"},
+    {"id": "seedance-2", "title": "Seedance 2.0 — ByteDance's 2K AI video with lip-sync", "date": "2026-02-24", "category": "radar"},
+    {"id": "v0-100m-interactions", "title": "v0 by Vercel surpasses 100M interactions, $250M raise", "date": "2026-02-24", "category": "update"},
+    {"id": "figma-200-features-2025", "title": "Figma shipped 200+ features in 2025, expanded to 8 products", "date": "2026-02-24", "category": "update"}
+  ]
+}
