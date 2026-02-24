@@ -165,6 +165,13 @@
     .category-label.radar { color: var(--radar); background: var(--radar-glow); }
     .category-label.update { color: var(--update); background: var(--update-glow); }
 
+    .category-label.video { color: #f472b6; background: rgba(244,114,182,0.12); }
+
+    .tag.yt {
+      color: #f472b6;
+      background: rgba(244,114,182,0.1);
+    }
+
     .finding {
       background: var(--bg-card);
       border: 1px solid var(--border);
@@ -328,7 +335,7 @@
     <h1>AI Design Research</h1>
     <p class="subtitle">Daily intelligence on AI tools, workflows, and techniques that accelerate design</p>
     <div class="meta-bar">
-      <div>findings <span class="value" id="total-count">12</span></div>
+      <div>findings <span class="value" id="total-count">19</span></div>
       <div>since <span class="value" id="start-date">2026-02-24</span></div>
       <div>updated <span class="value" id="last-update">2026-02-24</span></div>
     </div>
@@ -340,7 +347,7 @@
     <div class="day-header">
       <h2>February 24, 2026</h2>
       <div class="line"></div>
-      <div class="count">12 findings</div>
+      <div class="count">19 findings</div>
     </div>
 
     <div class="summary">
@@ -349,6 +356,7 @@
       <p>On the handoff side, <a href="#figma-code-connect">Figma Code Connect</a> is becoming the 2026 standard — linking design components directly to production React code for continuous sync. The new <a href="#dualite">Dualite plugin</a> adds another path: Figma flows straight to React/Tailwind. Both pair well with our Claude Code pipeline.</p>
       <p>The design-to-code space is heating up with <a href="#codespell-ai">Codespell.ai</a> positioning as enterprise and <a href="#anima-ibm">Anima securing IBM investment</a>. Meanwhile, <a href="#v0-vercel">v0 by Vercel</a> crossed 100M interactions with a $250M raise.</p>
       <p>Worth watching: <a href="#claude-apps">Claude Apps</a> (Anthropic's Figma integration), <a href="#google-pomelli">Google Pomelli</a> for brand content automation, and <a href="#seedance-2">Seedance 2.0</a> for AI video. <a href="#figma-200-features">Figma shipped 200+ features</a> in 2025 and is carrying that velocity into 2026.</p>
+      <p>🎥 YouTube highlights: <a href="#pencil-dev-claude">Pencil.dev</a> is a free infinite design canvas that works with Claude Code (dropped 2 days ago). A stunning demo shows <a href="#claude-code-figma-mcp-design-system">building an entire design system in Figma using Claude Code + MCP</a> — no manual work. <a href="#claude-code-figma-roundtrip">Full roundtrip workflow</a> from Claude Code → Figma → back is now real. Plus practical workflows: <a href="#cursor-figma-mcp-audit">auditing Figma designs with Cursor + MCP</a>, <a href="#magicpath-figma-to-code">MagicPath for zero-setup Figma-to-code</a>, and <a href="#figma-ai-vectorize">Figma's new one-click AI vectorization</a>.</p>
     </div>
 
     <!-- 🔥 HOT FINDS -->
@@ -564,6 +572,128 @@
             <span class="tag">figma</span>
             <span class="tag">platform</span>
             <span class="tag">features</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 🎥 VIDEOS -->
+    <div class="category">
+      <div class="category-label video">🎥 Videos</div>
+
+      <div class="finding">
+        <div class="finding-header">
+          <h4><a href="https://www.youtube.com/watch?v=CBIUxXy3WmM" target="_blank" id="pencil-dev-claude">Pencil.dev — Free Infinite Design Canvas for Claude Code</a></h4>
+          <span class="verdict try">Try it</span>
+        </div>
+        <div class="source-url"><a href="https://www.youtube.com/watch?v=CBIUxXy3WmM" target="_blank">youtube.com — 2 days ago</a></div>
+        <p class="desc">Pencil.dev is a free infinite design canvas that plugs directly into Claude Code. Skip generic AI designs — this gives you a visual workspace where Claude generates and you manipulate directly on canvas. Could replace quick wireframing entirely.</p>
+        <div class="finding-footer">
+          <div class="tags">
+            <span class="tag yt">▶ youtube</span>
+            <span class="tag">claude-code</span>
+            <span class="tag">design-canvas</span>
+            <span class="tag">free</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="finding">
+        <div class="finding-header">
+          <h4><a href="https://www.youtube.com/watch?v=4avgt3ahyk8" target="_blank" id="claude-code-figma-mcp-design-system">Build Entire Design Systems with Claude Code + Figma MCP</a></h4>
+          <span class="verdict try">Try it</span>
+        </div>
+        <div class="source-url"><a href="https://www.youtube.com/watch?v=4avgt3ahyk8" target="_blank">youtube.com — 4 days ago</a></div>
+        <p class="desc">Full walkthrough: Claude Code + Figma Console MCP to build an entire design system in Figma directly from a production codebase. No manual component creation. This is exactly our use case — production code → design system, automated.</p>
+        <div class="finding-footer">
+          <div class="tags">
+            <span class="tag yt">▶ youtube</span>
+            <span class="tag">design-system</span>
+            <span class="tag">claude-code</span>
+            <span class="tag">figma-mcp</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="finding">
+        <div class="finding-header">
+          <h4><a href="https://www.youtube.com/watch?v=746TLtvZksA" target="_blank" id="claude-code-figma-roundtrip">Claude Code ↔ Figma: Full Roundtrip Demo</a></h4>
+          <span class="verdict try">Try it</span>
+        </div>
+        <div class="source-url"><a href="https://www.youtube.com/watch?v=746TLtvZksA" target="_blank">youtube.com — 5 days ago</a></div>
+        <p class="desc">From Claude Code to Figma and BACK. Full roundtrip demo showing how AI-generated code becomes editable Figma designs, and how Figma edits flow back into code. This is the future of our pipeline — bidirectional sync between design and code.</p>
+        <div class="finding-footer">
+          <div class="tags">
+            <span class="tag yt">▶ youtube</span>
+            <span class="tag">claude-code</span>
+            <span class="tag">figma</span>
+            <span class="tag">pipeline</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="finding">
+        <div class="finding-header">
+          <h4><a href="https://www.youtube.com/watch?v=sqdHvP6BaUA" target="_blank" id="figma-ai-vectorize">Figma One-Click AI Vectorization Tool</a></h4>
+          <span class="verdict try">Try it</span>
+        </div>
+        <div class="source-url"><a href="https://www.youtube.com/watch?v=sqdHvP6BaUA" target="_blank">youtube.com — 2 weeks ago</a></div>
+        <p class="desc">Figma's new native AI feature: one-click vectorize any graphic. Converts raster images to clean vectors instantly inside Figma. No more tracing in Illustrator — huge time saver for icon and illustration work.</p>
+        <div class="finding-footer">
+          <div class="tags">
+            <span class="tag yt">▶ youtube</span>
+            <span class="tag">figma-native</span>
+            <span class="tag">vectorize</span>
+            <span class="tag">ai</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="finding">
+        <div class="finding-header">
+          <h4><a href="https://www.youtube.com/watch?v=1nbkLB_8ZM8" target="_blank" id="magicpath-figma-to-code">MagicPath — Figma to Code Without MCP Setup</a></h4>
+          <span class="verdict watch">Watch</span>
+        </div>
+        <div class="source-url"><a href="https://www.youtube.com/watch?v=1nbkLB_8ZM8" target="_blank">youtube.com — 3 weeks ago</a></div>
+        <p class="desc">MagicPath converts Figma designs to code in minutes with zero MCP configuration. Simpler alternative to our current setup. Worth testing as a faster path for quick prototypes that don't need full pipeline precision.</p>
+        <div class="finding-footer">
+          <div class="tags">
+            <span class="tag yt">▶ youtube</span>
+            <span class="tag">figma-to-code</span>
+            <span class="tag">no-setup</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="finding">
+        <div class="finding-header">
+          <h4><a href="https://www.youtube.com/watch?v=qSziR62ZGEM" target="_blank" id="cursor-figma-mcp-audit">Audit Figma Designs with Cursor + Figma MCP</a></h4>
+          <span class="verdict try">Try it</span>
+        </div>
+        <div class="source-url"><a href="https://www.youtube.com/watch?v=qSziR62ZGEM" target="_blank">youtube.com — 3 weeks ago</a></div>
+        <p class="desc">Simple, repeatable workflow: use Cursor + Figma MCP to AI-audit designs for spacing, color, and layout issues. Catches inconsistencies automatically. Could save hours of manual QA on our design system.</p>
+        <div class="finding-footer">
+          <div class="tags">
+            <span class="tag yt">▶ youtube</span>
+            <span class="tag">design-qa</span>
+            <span class="tag">cursor</span>
+            <span class="tag">figma-mcp</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="finding">
+        <div class="finding-header">
+          <h4><a href="https://www.youtube.com/watch?v=XfezMs8B-O8" target="_blank" id="ai-design-systems-workflow-2026">AI + Design Systems in 2026: Real Workflow Breakdown</a></h4>
+          <span class="verdict watch">Watch</span>
+        </div>
+        <div class="source-url"><a href="https://www.youtube.com/watch?v=XfezMs8B-O8" target="_blank">youtube.com — 1 month ago</a></div>
+        <p class="desc">Practical walkthrough of where AI actually helps in a real design system workflow in 2026. Not hype — honest assessment of what works and what doesn't. Good reference for our own workflow optimization.</p>
+        <div class="finding-footer">
+          <div class="tags">
+            <span class="tag yt">▶ youtube</span>
+            <span class="tag">design-system</span>
+            <span class="tag">workflow</span>
           </div>
         </div>
       </div>

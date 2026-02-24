@@ -12,6 +12,13 @@
     {"id": "google-pomelli", "title": "Google Pomelli — AI brand content generator from your URL", "date": "2026-02-24", "category": "radar"},
     {"id": "seedance-2", "title": "Seedance 2.0 — ByteDance's 2K AI video with lip-sync", "date": "2026-02-24", "category": "radar"},
     {"id": "v0-100m-interactions", "title": "v0 by Vercel surpasses 100M interactions, $250M raise", "date": "2026-02-24", "category": "update"},
-    {"id": "figma-200-features-2025", "title": "Figma shipped 200+ features in 2025, expanded to 8 products", "date": "2026-02-24", "category": "update"}
+    {"id": "figma-200-features-2025", "title": "Figma shipped 200+ features in 2025, expanded to 8 products", "date": "2026-02-24", "category": "update"},
+    {"id": "pencil-dev-claude", "title": "Pencil.dev — Free infinite design canvas for Claude Code", "date": "2026-02-24", "category": "hot"},
+    {"id": "claude-code-figma-mcp-design-system", "title": "Claude Code + Figma MCP: Build entire design systems from code", "date": "2026-02-24", "category": "hot"},
+    {"id": "figma-ai-vectorize", "title": "Figma One-Click AI Vectorization Tool", "date": "2026-02-24", "category": "tip"},
+    {"id": "magicpath-figma-to-code", "title": "MagicPath — Figma designs to code without MCP setup", "date": "2026-02-24", "category": "tip"},
+    {"id": "cursor-figma-mcp-audit", "title": "Audit Figma designs with Cursor + Figma MCP", "date": "2026-02-24", "category": "tip"},
+    {"id": "ai-design-systems-workflow-2026", "title": "AI + Design Systems in 2026: Real workflow breakdown", "date": "2026-02-24", "category": "tip"},
+    {"id": "claude-code-figma-roundtrip", "title": "Claude Code to Figma and back — full roundtrip demo", "date": "2026-02-24", "category": "hot"}
   ]
 }
