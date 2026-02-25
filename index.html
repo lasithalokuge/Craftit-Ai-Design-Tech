@@ -346,14 +346,20 @@
     }
 
     /* ── Bookmark Icon ── */
+    .verdict-group {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      flex-shrink: 0;
+    }
+
     .bookmark-btn {
       background: none;
       border: none;
       cursor: pointer;
-      font-size: 1.1rem;
-      padding: 0;
-      margin-left: 0.4rem;
-      opacity: 0.35;
+      font-size: 1rem;
+      padding: 0.15rem;
+      opacity: 0.3;
       transition: all 0.2s ease;
       flex-shrink: 0;
       line-height: 1;
@@ -1754,6 +1760,7 @@
     const id = f.querySelector('h4 a')?.id || 'finding-' + i;
     f.dataset.findingId = id;
     const header = f.querySelector('.finding-header');
+    const verdict = header.querySelector('.verdict');
     const btn = document.createElement('button');
     btn.className = 'bookmark-btn' + (bookmarks.includes(id) ? ' active' : '');
     btn.textContent = bookmarks.includes(id) ? '★' : '☆';
@@ -1766,7 +1773,16 @@
       localStorage.setItem(STORAGE_KEY, JSON.stringify(bookmarks));
       if (filterMode === 'bookmarked') applyFilter();
     });
-    header.appendChild(btn);
+    // Wrap verdict + bookmark in a group
+    if (verdict) {
+      const group = document.createElement('div');
+      group.className = 'verdict-group';
+      verdict.parentNode.insertBefore(group, verdict);
+      group.appendChild(verdict);
+      group.appendChild(btn);
+    } else {
+      header.appendChild(btn);
+    }
   });
 
   function applyFilter() {
