@@ -73,6 +73,25 @@
     {"id": "accessibe-ai", "title": "accessiBe — AI-powered automatic WCAG/ADA compliance", "date": "2026-02-25", "category": "update"},
     {"id": "ag-ui-protocol", "title": "AG-UI protocol by CopilotKit — Agent-to-frontend runtime layer", "date": "2026-02-25", "category": "update"},
     {"id": "base44-yt-ranking", "title": "Every AI App Builder Ranked for 2026 (YouTube)", "date": "2026-02-25", "category": "update"},
-    {"id": "user-research-tools-yt", "title": "Top User Research Tools in 2026 (YouTube)", "date": "2026-02-25", "category": "update"}
+    {"id": "user-research-tools-yt", "title": "Top User Research Tools in 2026 (YouTube)", "date": "2026-02-25", "category": "update"},
+    {"id": "paper-design-mcp", "title": "Paper.design — HTML/CSS Canvas with MCP Server for AI Agents", "date": "2026-02-26", "category": "hot"},
+    {"id": "lovart-ai-workspace", "title": "Lovart AI — Full Design Workspace with Multi-Model Skills", "date": "2026-02-26", "category": "hot"},
+    {"id": "stitch-hatter-agent", "title": "Google Stitch Adds Hatter Agent + Native MCP Export", "date": "2026-02-26", "category": "hot"},
+    {"id": "subframe-mcp", "title": "Subframe — Visual Canvas to Production React + MCP Server", "date": "2026-02-26", "category": "hot"},
+    {"id": "key-visual-figma", "title": "Key Visual — Figma + CMS Auto-Marketing Visuals with AI", "date": "2026-02-26", "category": "hot"},
+    {"id": "figma-credit-pricing-2026", "title": "Figma Shifting to AI Credit Consumption Pricing (March 2026)", "date": "2026-02-26", "category": "tip"},
+    {"id": "relume-ai-sitemap", "title": "Relume AI — Sitemap & Wireframe Automation for Web Projects", "date": "2026-02-26", "category": "tip"},
+    {"id": "figma-mcp-lobehub", "title": "Figma MCP Server on LobeHub — Export Images, Styles & SVG", "date": "2026-02-26", "category": "tip"},
+    {"id": "vibe-coding-comparison", "title": "Vibe Coding vs No-Code vs Low-Code — 2026 Builder Landscape", "date": "2026-02-26", "category": "tip"},
+    {"id": "variant-ai-design", "title": "Variant.ai — Rapid Design Variation Feed from Prompts", "date": "2026-02-26", "category": "radar"},
+    {"id": "stark-sidekick", "title": "Stark AI Sidekick — Accessibility Detection in Design Tools", "date": "2026-02-26", "category": "radar"},
+    {"id": "userway-ai-compliance", "title": "UserWay — AI WCAG Remediation + Litigation Support", "date": "2026-02-26", "category": "radar"},
+    {"id": "equidox-pdf-ai", "title": "Equidox — AI PDF Accessibility Tagging at Scale", "date": "2026-02-26", "category": "radar"},
+    {"id": "webmcp-protocol", "title": "WebMCP — AI Web Navigation Protocol (Mid-Late 2026)", "date": "2026-02-26", "category": "radar"},
+    {"id": "kane-ai-lambdatest", "title": "Kane AI by LambdaTest — Natural Language Test Generation", "date": "2026-02-26", "category": "radar"},
+    {"id": "meshcapade-epic", "title": "Epic Games Acquires Meshcapade — AI Markerless Motion Capture", "date": "2026-02-26", "category": "update"},
+    {"id": "fastmcp-gateway", "title": "fastmcp-gateway — Open-Source MCP Gateway (3 Meta-Tools)", "date": "2026-02-26", "category": "update"},
+    {"id": "big-tech-650b-ai", "title": "Big Tech to Spend $650B on AI in 2026 — Bridgewater/Reuters", "date": "2026-02-26", "category": "update"},
+    {"id": "lovart-yt-review", "title": "Lovart AI Review: The First True AI Design Agent? (YouTube)", "date": "2026-02-26", "category": "update"}
   ]
 }
