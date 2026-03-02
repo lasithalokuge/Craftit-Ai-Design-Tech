@@ -948,6 +948,417 @@
       "title": "The \"Technical Cliff\" Problem: Why Vibe Coding Isn't Enough",
       "date": "2026-03-01",
       "source": "getmocha.com"
+    },
+    {
+      "id": "figma-codex-integration-tc",
+      "date": "2026-03-02",
+      "title": "Figma Partners with OpenAI to Integrate Codex \u2014 Design-to-Code via MCP",
+      "url": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+      "source_url": "https://techcrunch.com/2026/02/26/figma-partners-with-openai-to-bake-in-support-for-codex/",
+      "description": "Figma officially integrates OpenAI Codex via its MCP server. Engineers can iterate visually without leaving their flow; designers work closer to real implementation. Codex MacOS app hit 1M downloads in first week. Follows the Anthropic/Claude Code partnership announced days earlier.",
+      "verdict": "Major \u2014 Figma is now a multi-model MCP hub. Both Claude Code and OpenAI Codex can read/write Figma files.",
+      "category": "hot",
+      "tags": [
+        "figma",
+        "openai",
+        "codex",
+        "mcp",
+        "design-to-code"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "figma-to-code-2min-claude-yt",
+      "date": "2026-03-02",
+      "title": "Figma to Code in 2 Minutes \u2014 No Dev Mode Required (Claude AI)",
+      "url": "https://www.youtube.com/watch?v=IQlppo06HhA",
+      "source_url": "https://www.youtube.com/watch?v=IQlppo06HhA",
+      "description": "Quick tutorial showing how to turn any Figma design into production-ready code for free using Claude AI, without Figma Dev Mode. Posted just hours ago, demonstrates the speed of the new Claude-Figma pipeline.",
+      "verdict": "Great speed demo \u2014 shows the 2-min Figma\u2192code workflow is real and accessible to non-paying Figma users.",
+      "category": "tip",
+      "tags": [
+        "figma",
+        "claude",
+        "design-to-code",
+        "tutorial"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "claude-code-figma-mcp-new-yt",
+      "date": "2026-03-02",
+      "title": "Push UI Designs from Claude Code BACK to Figma (NEW Figma MCP)",
+      "url": "https://www.youtube.com/watch?v=CoS44JrUgL4",
+      "source_url": "https://www.youtube.com/watch?v=CoS44JrUgL4",
+      "description": "BuilderSpace walkthrough of Anthropic's new Claude Code Figma MCP that enables bidirectional flow \u2014 code changes push back into Figma canvas. Full follow-along guide included.",
+      "verdict": "The bidirectional Code\u2194Figma loop is now real. This is the most significant design workflow shift in years.",
+      "category": "hot",
+      "tags": [
+        "claude-code",
+        "figma",
+        "mcp",
+        "bidirectional"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "openai-codex-figma-mcp-setup-yt",
+      "date": "2026-03-02",
+      "title": "OpenAI Codex + Figma MCP Setup for Designers",
+      "url": "https://www.youtube.com/watch?v=OHgOeqQuQSI",
+      "source_url": "https://www.youtube.com/watch?v=OHgOeqQuQSI",
+      "description": "Complete setup guide for the new OpenAI Codex + Figma MCP integration. Signals the end of manual designer-developer handoff as both major AI providers now connect directly to Figma.",
+      "verdict": "Essential companion to the TechCrunch announcement \u2014 practical setup walkthrough for design teams.",
+      "category": "tip",
+      "tags": [
+        "openai",
+        "codex",
+        "figma",
+        "mcp",
+        "setup"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "claude-code-to-figma-full-guide-yt",
+      "date": "2026-03-02",
+      "title": "Claude Code to Figma \u2014 Full Guide (Code\u2192Figma\u2192Code Workflow)",
+      "url": "https://www.youtube.com/watch?v=FqQMIQRcdj8",
+      "source_url": "https://www.youtube.com/watch?v=FqQMIQRcdj8",
+      "description": "Shows the complete reverse workflow: take existing code, generate a Figma design from it, then iterate back to code. A completely new workflow direction that most designers haven't considered.",
+      "verdict": "Game-changer concept \u2014 Code\u2192Figma\u2192Code means legacy projects can get proper design files retroactively.",
+      "category": "hot",
+      "tags": [
+        "claude-code",
+        "figma",
+        "reverse-workflow"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "pencil-dev-fixes-design-errors-yt",
+      "date": "2026-03-02",
+      "title": "Pencil.dev + Claude Code Fixed 90% of Design Errors",
+      "url": "https://www.youtube.com/watch?v=sdxJEd7nqiQ",
+      "source_url": "https://www.youtube.com/watch?v=sdxJEd7nqiQ",
+      "description": "Real-world test of pencil.dev with Claude Code to bridge design system and AI coding workflows. Shows how the MCP bridge between Pencil and Claude ensures design-to-code fidelity without information loss.",
+      "verdict": "Pencil.dev's MCP integration is proving to be a serious Figma alternative for AI-native design workflows.",
+      "category": "hot",
+      "tags": [
+        "pencil.dev",
+        "claude-code",
+        "mcp",
+        "design-system"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "figma-make-experiences-broken-reddit",
+      "date": "2026-03-02",
+      "title": "Reddit: How Designers Are Breaking Figma Make Experiences",
+      "url": "https://www.reddit.com/r/UXDesign/comments/1rf82nf/figma_make_experiences_how_have_you_broken_it/",
+      "source_url": "https://www.reddit.com/r/UXDesign/comments/1rf82nf/figma_make_experiences_how_have_you_broken_it/",
+      "description": "UX designers sharing real experiences with Figma Make \u2014 frustrations and workarounds. Key insight: Figma Make uses Claude under the hood. Companies blocking Cursor/Claude are pushing designers to use Make as their AI workaround.",
+      "verdict": "Reality check on Figma Make \u2014 useful for quick exploration but breaks down for complex workflows.",
+      "category": "update",
+      "tags": [
+        "figma-make",
+        "reddit",
+        "community"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "cursor-ai-design-system-reddit",
+      "date": "2026-03-02",
+      "title": "Reddit: Using AI/Cursor to Build Out a Design System",
+      "url": "https://www.reddit.com/r/UXDesign/comments/1rfi3t5/anyone_using_aicursor_to_build_out_a_design_system/",
+      "source_url": "https://www.reddit.com/r/UXDesign/comments/1rfi3t5/anyone_using_aicursor_to_build_out_a_design_system/",
+      "description": "UX teams discussing AI-managed design systems \u2014 feeding tokens, accessibility constraints, and component logic into Cursor. Tested interaction behavior in Runable before formalizing components. Goal: AI manages both component library skinning and Figma component generation.",
+      "verdict": "Early signal that AI-managed design systems are becoming practical. Runable mentioned as interaction testing layer.",
+      "category": "radar",
+      "tags": [
+        "cursor",
+        "design-system",
+        "tokens",
+        "runable",
+        "reddit"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "vibe-design-claude-figma-reddit",
+      "date": "2026-03-02",
+      "title": "Reddit: 'Real Vibe Design Is Here' \u2014 Claude Generating Complete Figma Design Systems",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1rg86um/real_vibe_design_is_here/",
+      "source_url": "https://www.reddit.com/r/ClaudeAI/comments/1rg86um/real_vibe_design_is_here/",
+      "description": "Claude generating complete design systems from a single prompt \u2014 actual editable Figma files, not just screenshots. Community coining the term 'Vibe Design' as the design equivalent of 'vibe coding'.",
+      "verdict": "The 'Vibe Design' concept is gaining traction \u2014 prompt-to-Figma-file is now real enough for community excitement.",
+      "category": "hot",
+      "tags": [
+        "claude",
+        "figma",
+        "vibe-design",
+        "design-system",
+        "reddit"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "designer-role-claude-codex-reddit",
+      "date": "2026-03-02",
+      "title": "Reddit: What's the Role of a Designer in a Claude/Codex-to-Figma World?",
+      "url": "https://www.reddit.com/r/FigmaDesign/comments/1rhd3l1/whats_the_role_of_a_designer_exactly_in_a/",
+      "source_url": "https://www.reddit.com/r/FigmaDesign/comments/1rhd3l1/whats_the_role_of_a_designer_exactly_in_a/",
+      "description": "Designers debating their role as AI generates UI. Key insight: designers who define experience principles, success metrics, and behavioral goals BEFORE UI exists will thrive \u2014 AI becomes a tool, not a replacement.",
+      "verdict": "Important strategic discussion. Designers must shift upstream to strategy/principles to stay relevant.",
+      "category": "radar",
+      "tags": [
+        "design-role",
+        "strategy",
+        "claude",
+        "codex",
+        "reddit"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "sticklight-5k-website-yt",
+      "date": "2026-03-02",
+      "title": "Can AI Build a $5k Production-Ready Website? (Sticklight Review)",
+      "url": "https://www.youtube.com/watch?v=WykptSmJOTo",
+      "source_url": "https://www.youtube.com/watch?v=WykptSmJOTo",
+      "description": "Sticklight is a website-first AI builder for pro web creators, designed to ship production-ready client sites. Video tests building a full fintech website \u2014 positions as a tool for professional web designers, not hobbyists.",
+      "verdict": "New player \u2014 Sticklight targets the pro web design market that Bolt/Lovable don't fully serve.",
+      "category": "radar",
+      "tags": [
+        "sticklight",
+        "ai-builder",
+        "web-design"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "paper-design-shaders",
+      "date": "2026-03-02",
+      "title": "Paper.design Adds GPU Shaders, Multi-Model Image Gen & 1M MCP Calls/Week",
+      "url": "https://www.banani.co/blog/paper-design-mcp-review",
+      "source_url": "https://www.banani.co/blog/paper-design-mcp-review",
+      "description": "Paper.design expands with animated GPU shader library (mesh gradients, liquid metal, halftone, fluted glass), built-in AI image gen (Flux 2, Nano Banana Pro, OpenAI Edit 1.5, Seedream 4.5), and 1M MCP tool calls/week on Pro ($16/mo). HTML/CSS canvas means designs ARE code.",
+      "verdict": "Paper.design is becoming the most feature-rich AI-native design tool. Shader library is unique differentiator.",
+      "category": "hot",
+      "tags": [
+        "paper.design",
+        "shaders",
+        "mcp",
+        "ai-image-gen"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "lovable-alternative-yt",
+      "date": "2026-03-02",
+      "title": "The Ultimate Lovable Alternative You Need to Try",
+      "url": "https://www.youtube.com/watch?v=ngtn38syUG8",
+      "source_url": "https://www.youtube.com/watch?v=ngtn38syUG8",
+      "description": "Review of what's claimed to be the most powerful AI website builder yet, positioning as a Lovable alternative. Gaining traction with 30% discount promotions.",
+      "verdict": "Worth watching \u2014 the Lovable/Bolt space is crowding fast with new entrants.",
+      "category": "radar",
+      "tags": [
+        "lovable",
+        "ai-builder",
+        "alternative"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "build-website-ai-2026-comparison-yt",
+      "date": "2026-03-02",
+      "title": "How to Build a Website With AI in 2026 (Tool Comparison)",
+      "url": "https://www.youtube.com/watch?v=a4pCaxEfR-w",
+      "source_url": "https://www.youtube.com/watch?v=a4pCaxEfR-w",
+      "description": "Comprehensive comparison of AI website builders in 2026 \u2014 which tool to actually use. Covers Bolt, Lovable, v0, and newer entrants. From AI trainer Kyle's workshop series.",
+      "verdict": "Good overview for keeping up with the rapidly shifting AI builder landscape.",
+      "category": "tip",
+      "tags": [
+        "ai-builder",
+        "comparison",
+        "bolt",
+        "lovable",
+        "v0"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "replit-video-stack-animation-yt",
+      "date": "2026-03-02",
+      "title": "Replit 'Video Stack' \u2014 Generate Pro Animations with Code",
+      "url": "https://www.youtube.com/watch?v=Dl16c6No1_I",
+      "source_url": "https://www.youtube.com/watch?v=Dl16c6No1_I",
+      "description": "Replit drops 'Video Stack' \u2014 a new way to generate professional motion graphics and animations using nothing but text prompts. Eliminates manual video editing for motion design content.",
+      "verdict": "Significant for motion designers \u2014 Replit entering the animation space with code-based generation.",
+      "category": "hot",
+      "tags": [
+        "replit",
+        "animation",
+        "motion-design",
+        "video"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "stitch-hatter-mcp-export",
+      "date": "2026-03-02",
+      "title": "Google Stitch Adds Hatter Agent + Native MCP Export + App Store Asset Gen",
+      "url": "https://www.producthunt.com/products/stitch-by-google",
+      "source_url": "https://www.producthunt.com/products/stitch-by-google",
+      "description": "Google Stitch introduces Hatter, a new agent for multi-step design tasks, plus App Store asset generation and native MCP export. Free tool that turns sketches/prompts into editable design + real code.",
+      "verdict": "Google Stitch keeps leveling up \u2014 Hatter agent + MCP export makes it a serious free alternative.",
+      "category": "hot",
+      "tags": [
+        "google",
+        "stitch",
+        "hatter",
+        "mcp",
+        "agent"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "moda-ai-editable-design",
+      "date": "2026-03-02",
+      "title": "Moda: AI Designs You Can Actually Edit (PH Launch)",
+      "url": "https://www.producthunt.com/products/moda-2",
+      "source_url": "https://www.producthunt.com/products/moda-2",
+      "description": "Moda launches on Product Hunt \u2014 AI design agent with detailed layer information and full designer-level tools. Claims better edits than Canva/Figma because the agent has the same tools a human designer would.",
+      "verdict": "Interesting approach \u2014 giving AI the same granular editing tools as human designers rather than just generating static output.",
+      "category": "radar",
+      "tags": [
+        "moda",
+        "ai-design",
+        "editable",
+        "product-hunt"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "pencil-dev-vs-figma-yt",
+      "date": "2026-03-02",
+      "title": "Pencil.dev vs Figma: Which AI Design Tool Wins?",
+      "url": "https://www.youtube.com/watch?v=5etKQj8qy1o",
+      "source_url": "https://www.youtube.com/watch?v=5etKQj8qy1o",
+      "description": "Head-to-head comparison of Pencil.dev and Figma for AI-driven design workflows. Pencil collapses the gap from design concept to working code \u2014 one of the most friction-heavy parts of app development.",
+      "verdict": "Pencil.dev is emerging as a legitimate Figma challenger for AI-first design workflows.",
+      "category": "tip",
+      "tags": [
+        "pencil.dev",
+        "figma",
+        "comparison"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "claude-plugins-skills-tutorial-yt",
+      "date": "2026-03-02",
+      "title": "Claude Plugins & Skills Tutorial \u2014 All Updates Combined",
+      "url": "https://www.youtube.com/watch?v=6EFOT6hjvAU",
+      "source_url": "https://www.youtube.com/watch?v=6EFOT6hjvAU",
+      "description": "Comprehensive tutorial covering all Claude plugin and skill updates including the Figma MCP Server. From the AI Academy for Professionals on Agentic AI.",
+      "verdict": "Good reference for designers wanting to set up the full Claude plugin ecosystem.",
+      "category": "tip",
+      "tags": [
+        "claude",
+        "plugins",
+        "skills",
+        "figma-mcp",
+        "tutorial"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "antigravity-gemini-animated-sites-yt",
+      "date": "2026-03-02",
+      "title": "Antigravity + Gemini 3.1 \u2014 Build Animated Websites in Minutes",
+      "url": "https://www.youtube.com/watch?v=Mdj7eA4bbpI",
+      "source_url": "https://www.youtube.com/watch?v=Mdj7eA4bbpI",
+      "description": "Antigravity tool combined with Gemini 3.1 for building animated websites rapidly. New AI SaaS builder approach that produces motion-heavy sites without manual animation work.",
+      "verdict": "Interesting niche \u2014 animated/motion-heavy sites are typically very time-consuming. AI shortcut worth watching.",
+      "category": "radar",
+      "tags": [
+        "antigravity",
+        "gemini",
+        "animation",
+        "website-builder"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "ai-accessibility-gap-medium",
+      "date": "2026-03-02",
+      "title": "AI Makes Accessibility Harder, Not Easier \u2014 The WCAG Compliance Gap",
+      "url": "https://medium.com/design-bootcamp/we-thought-ai-would-make-accessibility-easier-here-is-why-we-were-wrong-9e91cf321862",
+      "source_url": "https://medium.com/design-bootcamp/we-thought-ai-would-make-accessibility-easier-here-is-why-we-were-wrong-9e91cf321862",
+      "description": "Only 30% of WCAG 2.2 criteria are detectable by automated tools. 70% spike in screen reader abandonment on AI-generated visual sites. 37% surge in ADA lawsuits in H1 2025. AI PDFs are visually correct but structurally broken for accessibility.",
+      "verdict": "Critical reading \u2014 AI is creating accessibility debt faster than it's solving it. Human oversight remains essential.",
+      "category": "hot",
+      "tags": [
+        "accessibility",
+        "wcag",
+        "ai-gap",
+        "legal"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "design-ai-summit-2026",
+      "date": "2026-03-02",
+      "title": "Design + AI Summit 2026 \u2014 April 9-10 & September 17-18",
+      "url": "https://creativepro.com/event/design-ai-summit-2026/",
+      "source_url": "https://creativepro.com/event/design-ai-summit-2026/",
+      "description": "Online conference covering AI in Photoshop/Illustrator/InDesign, Adobe Firefly updates, partner models, practical prompt strategies, AI video for storytelling, and cross-app production workflows. Registration includes 1-year on-demand access.",
+      "verdict": "Worth attending \u2014 covers Adobe's AI stack comprehensively. Two 2-day programs to stay current all year.",
+      "category": "radar",
+      "tags": [
+        "conference",
+        "adobe",
+        "firefly",
+        "design-ai"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "flowstep-figma-make-review",
+      "date": "2026-03-02",
+      "title": "Flowstep Reviews Figma Make: 150 Free AI Credits/Day, MCP Integration",
+      "url": "https://flowstep.ai/blog/figma-make-pricing/",
+      "source_url": "https://flowstep.ai/blog/figma-make-pricing/",
+      "description": "Detailed review of Figma Make's pricing: Free tier gets 150 AI credits/day (500/month). Key features include prompt-to-UI generation, context-aware design using team libraries, code-based prototypes, and full MCP server integration with VS Code, Cursor, Windsurf, and Claude.",
+      "verdict": "Good pricing reference. The 150 free credits/day is generous for exploration. MCP integration makes Figma Make more valuable.",
+      "category": "update",
+      "tags": [
+        "figma-make",
+        "pricing",
+        "mcp",
+        "review"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "ui-design-non-ai-look-reddit",
+      "date": "2026-03-02",
+      "title": "Reddit: How to Create UI Designs That Don't Look AI-Generated",
+      "url": "https://www.reddit.com/r/ClaudeCode/comments/1rfjovy/how_do_you_create_ui_designs_that_dont_look/",
+      "source_url": "https://www.reddit.com/r/ClaudeCode/comments/1rfjovy/how_do_you_create_ui_designs_that_dont_look/",
+      "description": "Designers discussing how to avoid the 'AI slop' look in generated UIs. Key insight: code is solvable by AI but design requires taste, originality, and cohesion that current models still struggle with. Google UI Designer plugin mentioned as partial solution.",
+      "verdict": "Important reality check \u2014 AI UI generation needs human design direction to avoid generic outputs.",
+      "category": "tip",
+      "tags": [
+        "design-quality",
+        "ai-generated",
+        "taste",
+        "reddit"
+      ],
+      "is_youtube": false
     }
   ]
 }
