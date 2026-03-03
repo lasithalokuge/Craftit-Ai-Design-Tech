@@ -1359,6 +1359,184 @@
         "reddit"
       ],
       "is_youtube": false
+    },
+    {
+      "id": "flora-ai-42m-series-a",
+      "date": "2026-03-03",
+      "title": "Flora AI Raises $42M Series A from Redpoint Ventures",
+      "url": "https://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures/",
+      "source_url": "https://techcrunch.com/2026/01/27/node-based-design-tool-flora-raises-42m-from-redpoint-ventures/",
+      "description": "Flora, the node-based AI design tool used by Alibaba, Brex, Pentagram, and Lionsgate, raises $42M Series A. The platform uses generative AI models for design via prompts and multimodal inputs, letting users create branches from any node to iterate on concepts with tractable creative flows.",
+      "verdict": "Major funding round for AI-first design workflows. Node-based interface differentiates from traditional canvas tools.",
+      "category": "hot",
+      "tags": [
+        "flora",
+        "funding",
+        "series-a",
+        "redpoint",
+        "node-based",
+        "ai-design"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "openai-figma-codex-partnership",
+      "date": "2026-03-03",
+      "title": "OpenAI Codex + Figma Launch Code-to-Design Integration",
+      "url": "https://openai.com/index/figma-partnership/",
+      "source_url": "https://openai.com/index/figma-partnership/",
+      "description": "Official OpenAI Codex integration with Figma via MCP Server. Engineers can generate Figma designs from Codex and implement designs back into code. Creates new roundtrip workflow where teams start anywhere (prompt, code, or design) and move forward with speed. Complements existing Anthropic/Claude Code partnership.",
+      "verdict": "Historic — both major AI providers (OpenAI & Anthropic) now connect directly to Figma via MCP.",
+      "category": "hot",
+      "tags": [
+        "openai",
+        "codex",
+        "figma",
+        "mcp",
+        "roundtrip",
+        "code-to-design"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "mcp-apps-interactive-ui",
+      "date": "2026-03-03",
+      "title": "MCP Apps — Interactive UIs Render in AI Clients",
+      "url": "https://workos.com/blog/2026-01-27-mcp-apps",
+      "source_url": "https://workos.com/blog/2026-01-27-mcp-apps",
+      "description": "First official MCP extension announced January 26, 2026. MCP Apps let third-party applications render interactive UI components directly inside AI chat windows. Tools can now return rich interfaces (dashboards, design editors, formatted messages) in sandboxed iframes. Works across Claude, ChatGPT, VS Code, and any MCP-compatible client.",
+      "verdict": "Game-changer — AI conversations can now host interactive apps, not just text responses.",
+      "category": "hot",
+      "tags": [
+        "mcp-apps",
+        "interactive-ui",
+        "mcp",
+        "sandboxed",
+        "claude",
+        "chatgpt"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "v0-ai-sdk-v6-agents",
+      "date": "2026-03-03",
+      "title": "v0 Adds AI SDK v6 Support for Agents",
+      "url": "https://v0.app/changelog",
+      "source_url": "https://v0.app/changelog",
+      "description": "v0 changelog shows AI SDK v6 support for agents added January 21, 2026. Also includes credit rollover, improved GitHub flow, and new Folders/Projects structure. Signals v0's move toward agentic workflows beyond just UI generation.",
+      "verdict": "v0 evolving from UI generator to full agentic platform — aligned with Vercel's 2026 agent vision.",
+      "category": "update",
+      "tags": [
+        "v0",
+        "ai-sdk-v6",
+        "agents",
+        "vercel",
+        "agentic"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "figma-ai-2026-beginner-guide-yt",
+      "date": "2026-03-03",
+      "title": "How to Use Figma AI 2026 (Beginner Guide)",
+      "url": "https://www.youtube.com/watch?v=NqNjx7KEKPw",
+      "source_url": "https://www.youtube.com/watch?v=NqNjx7KEKPw",
+      "description": "3-week-old tutorial covering how to use Figma's built-in AI to speed up UI/UX design workflow. Covers the latest 2026 features and practical implementation for beginners.",
+      "verdict": "Good entry point for designers new to Figma AI in 2026.",
+      "category": "tip",
+      "tags": [
+        "figma-ai",
+        "tutorial",
+        "beginner",
+        "workflow"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "design-engineer-workflow-2026-yt",
+      "date": "2026-03-03",
+      "title": "Design Engineer's Ultimate Workflow for 2026: Figma",
+      "url": "https://www.youtube.com/watch?v=ZHk_xrG-bio",
+      "source_url": "https://www.youtube.com/watch?v=ZHk_xrG-bio",
+      "description": "January 23, 2026 video showing current design engineering workflow. Mentions MagicPath and Agentation tools. Represents the latest thinking on design-to-code workflows.",
+      "verdict": "Current snapshot of design engineering practices in 2026.",
+      "category": "tip",
+      "tags": [
+        "design-engineering",
+        "workflow",
+        "magicpath",
+        "agentation"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "ai-design-systems-2026-workflow-yt",
+      "date": "2026-03-03",
+      "title": "AI + Design Systems in 2026: The Workflow I Actually Use",
+      "url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
+      "source_url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
+      "description": "January 26, 2026 video walking through real AI-supported design system workflow. Focuses on where AI actually helps vs. replacing design work. Practical perspective on current state of AI in design systems.",
+      "verdict": "Realistic take on AI's current role in design systems — augmentation, not replacement.",
+      "category": "tip",
+      "tags": [
+        "ai-design-systems",
+        "workflow",
+        "real-world",
+        "augmentation"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "2026-ai-design-field-report-yt",
+      "date": "2026-03-03",
+      "title": "The 2026 AI Design Field Report (tools, process, and what's working)",
+      "url": "https://www.youtube.com/watch?v=Y0n6F9VlLVc",
+      "source_url": "https://www.youtube.com/watch?v=Y0n6F9VlLVc",
+      "description": "January 19, 2026 report on how top teams are actually using AI in design workflows. Stephen Haney analysis of real-world AI adoption in design teams.",
+      "verdict": "Important field report — shows gap between AI hype and practical adoption.",
+      "category": "tip",
+      "tags": [
+        "field-report",
+        "real-adoption",
+        "stephen-haney",
+        "team-usage"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "claude-no-mcp-figma-yt",
+      "date": "2026-03-03",
+      "title": "Tutorial: Claude Code designs for me in Figma ❌ No MCP needed",
+      "url": "https://www.youtube.com/watch?v=DEsxUXlXv5M",
+      "source_url": "https://www.youtube.com/watch?v=DEsxUXlXv5M",
+      "description": "6-day-old tutorial showing CLI that connects Claude Code to Figma Desktop without MCP setup. 60-second connection process, no API key required. Alternative to complex MCP server setup.",
+      "verdict": "Practical workaround for teams who want Claude-Figma integration without MCP complexity.",
+      "category": "tip",
+      "tags": [
+        "claude-code",
+        "figma",
+        "cli",
+        "no-mcp",
+        "workaround"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "figma-design-system-claude-mcp-yt",
+      "date": "2026-03-03",
+      "title": "Building a Complete Figma Design System with AI Using Claude Code + Figma Console MCP",
+      "url": "https://www.youtube.com/watch?v=4avgt3ahyk8",
+      "source_url": "https://www.youtube.com/watch?v=4avgt3ahyk8",
+      "description": "1-week-old video showing how to build entire design system in Figma directly from production codebase using Claude Code with Figma Console MCP. No manual copying required.",
+      "verdict": "Demonstrates mature code→Figma design system workflow becoming practical.",
+      "category": "hot",
+      "tags": [
+        "design-system",
+        "claude-code",
+        "figma-mcp",
+        "production-code"
+      ],
+      "is_youtube": true
     }
   ]
 }
