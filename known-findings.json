@@ -950,6 +950,90 @@
       "source": "getmocha.com"
     },
     {
+      "id": "lilt-mcp-server-launch",
+      "title": "LILT Launches Enterprise MCP Server for AI Translation",
+      "date": "2026-03-04",
+      "category": "hot"
+    },
+    {
+      "id": "visual-electric-shutdown",
+      "title": "Visual Electric Shut Down/Acquired — Designers Report Tool Unavailable",
+      "date": "2026-03-04",
+      "category": "update"
+    },
+    {
+      "id": "claude-code-dominates-survey",
+      "title": "AI Weekly: Claude Code Dominates Developer Survey, Overtakes GitHub Copilot",
+      "date": "2026-03-05",
+      "category": "hot"
+    },
+    {
+      "id": "google-grpc-mcp",
+      "title": "Google Pushes gRPC Transport into MCP — Enterprise Microservices Integration",
+      "date": "2026-03-05",
+      "category": "tip"
+    },
+    {
+      "id": "mcp-goes-mainstream",
+      "title": "MCP Goes Mainstream: 97M Monthly Downloads, 100+ Enterprise A2A Adopters",
+      "date": "2026-03-05",
+      "category": "hot"
+    },
+    {
+      "id": "nist-agent-security-standards",
+      "title": "NIST Launches AI Agent Standards Initiative — Government Security Framework",
+      "date": "2026-03-05",
+      "category": "radar"
+    },
+    {
+      "id": "into-design-systems-2026-agenda",
+      "title": "Into Design Systems Conference 2026: AI Design Systems & MCP Sessions (March 19-20)",
+      "date": "2026-03-06",
+      "category": "tip"
+    },
+    {
+      "id": "recordpoint-mcp-server",
+      "title": "RecordPoint Unveils MCP Server for Enterprise AI Governance",
+      "date": "2026-03-06",
+      "category": "radar"
+    },
+    {
+      "id": "guru-knowledge-agents-mcp",
+      "title": "Guru Knowledge Agents Launch with MCP Server for Agentic AI Workflows",
+      "date": "2026-03-06",
+      "category": "tip"
+    },
+    {
+      "id": "product-hunt-vibe-coding-category",
+      "title": "Product Hunt Launches Dedicated 'Vibe Coding' Category — AI-First Development Goes Mainstream",
+      "date": "2026-03-06",
+      "category": "update"
+    },
+    {
+      "id": "higgsfield-vibe-motion-yt",
+      "title": "Will This AI Kill Motion Design? Higgsfield Vibe Motion Claims to Turn Anyone Into Animator",
+      "date": "2026-03-07",
+      "category": "hot"
+    },
+    {
+      "id": "google-stitch-free-beta-2026",
+      "title": "Google Stitch (Formerly Galileo AI) Free Beta — Text-to-Figma with MCP Export",
+      "date": "2026-03-07",
+      "category": "tip"
+    },
+    {
+      "id": "reddit-ai-design-stylized-tools",
+      "title": "Reddit Discussion: Genuinely Good Stylized AI Design Tools — Designer Reality Check",
+      "date": "2026-03-07",
+      "category": "update"
+    },
+    {
+      "id": "adversa-ai-mcp-security",
+      "title": "Top MCP Security Resources — Enterprise Access Control Architecture Guide",
+      "date": "2026-03-07",
+      "category": "tip"
+    },
+    {
       "id": "figma-codex-integration-tc",
       "date": "2026-03-02",
       "title": "Figma Partners with OpenAI to Integrate Codex \u2014 Design-to-Code via MCP",
