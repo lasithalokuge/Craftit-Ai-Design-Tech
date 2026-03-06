@@ -1537,6 +1537,42 @@
         "production-code"
       ],
       "is_youtube": true
+    },
+    {
+      "id": "claude-cowork-gui-launch",
+      "title": "Claude Cowork \u2014 GUI Version of Claude Code for Non-Technical Users",
+      "date": "2026-03-06",
+      "category": "hot"
+    },
+    {
+      "id": "openai-gpt-54-launch",
+      "title": "OpenAI GPT-5.4 Launches with Native Computer Use & 1M Token Context",
+      "date": "2026-03-06",
+      "category": "hot"
+    },
+    {
+      "id": "notion-custom-agents-mcp",
+      "title": "Notion Custom Agents \u2014 24/7 AI Teammates Across Figma, Linear, Slack & MCP Servers",
+      "date": "2026-03-06",
+      "category": "hot"
+    },
+    {
+      "id": "claude-figma-bidirectional-uxplanet",
+      "title": "Claude Code + Figma Two-Way Communication: Publish & Sync Design Changes",
+      "date": "2026-03-06",
+      "category": "tip"
+    },
+    {
+      "id": "kombai-vscode-extension",
+      "title": "Kombai VS Code Extension \u2014 Figma to Code with Editor Workflow Integration",
+      "date": "2026-03-06",
+      "category": "tip"
+    },
+    {
+      "id": "ai-icon-generator-venngage-yt",
+      "title": "AI Icon Generator Tutorial: Create Brand Icons with AI in Minutes (YouTube)",
+      "date": "2026-03-06",
+      "category": "tip"
     }
   ]
 }
