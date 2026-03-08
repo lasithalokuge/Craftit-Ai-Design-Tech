@@ -1705,6 +1705,72 @@
       "title": "AI Generating Real UI in Figma Using Your Design System (Claude + Figma Console MCP)",
       "date": "2026-03-07",
       "category": "tip"
+    },
+    {
+      "id": "github-copilot-figma-integration",
+      "title": "GitHub Copilot to Figma — Push rendered UI to canvas as editable frames",
+      "date": "2026-03-08",
+      "category": "hot"
+    },
+    {
+      "id": "figma-slots-open-beta",
+      "title": "Figma Slots — Dynamic component instances without detaching (open beta)",
+      "date": "2026-03-08",
+      "category": "hot"
+    },
+    {
+      "id": "figma-multiple-component-mappings",
+      "title": "Figma Code Connect — Multiple component mappings in UI for all frameworks",
+      "date": "2026-03-08",
+      "category": "tip"
+    },
+    {
+      "id": "figma-codex-integration",
+      "title": "Codex to Figma — Generate Figma Design files from Codex via MCP server",
+      "date": "2026-03-08",
+      "category": "hot"
+    },
+    {
+      "id": "v0-production-revamp",
+      "title": "v0 by Vercel — Major revamp: from prototyping to production deployment",
+      "date": "2026-03-08",
+      "category": "hot"
+    },
+    {
+      "id": "v0-git-workflows",
+      "title": "v0 Git Panel — Non-technical users can create branches and open PRs",
+      "date": "2026-03-08",
+      "category": "tip"
+    },
+    {
+      "id": "google-stitch-gemini-powered",
+      "title": "Google Stitch 2026 — Galileo AI rebranded with Gemini, free in beta",
+      "date": "2026-03-08",
+      "category": "update"
+    },
+    {
+      "id": "claude-artifacts-nested-api",
+      "title": "Claude Artifacts — 'Claude in Claude' nested API calls for AI-powered apps",
+      "date": "2026-03-08",
+      "category": "hot"
+    },
+    {
+      "id": "uizard-autodesigner-2-conversational",
+      "title": "Uizard Autodesigner 2.0 — ChatGPT-style conversational design iteration",
+      "date": "2026-03-08",
+      "category": "tip"
+    },
+    {
+      "id": "relume-monotype-integration",
+      "title": "Relume x Monotype — Preview premium fonts directly in platform",
+      "date": "2026-03-08",
+      "category": "tip"
+    },
+    {
+      "id": "banani-ai-funding-850k",
+      "title": "Banani AI — Raises €850k, adds MCP server & multi-screen generations",
+      "date": "2026-03-08",
+      "category": "update"
     }
   ]
 }
