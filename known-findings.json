@@ -1771,6 +1771,151 @@
       "title": "Banani AI — Raises €850k, adds MCP server & multi-screen generations",
       "date": "2026-03-08",
       "category": "update"
+    },
+    {
+      "id": "kodo-ai-design-ph-launch",
+      "date": "2026-03-09",
+      "title": "Kodo — AI Design Tool for Fully Editable Designs (Product Hunt Launch)",
+      "url": "https://www.producthunt.com/products/kodo-3",
+      "source_url": "https://www.producthunt.com/products/kodo-3",
+      "description": "Kodo launches on Product Hunt as an AI design tool that creates fully editable designs through AI chat. Unlike static generators, Kodo provides designs you can actually iterate on and modify. Positioned as next-gen design workflow.",
+      "verdict": "Try it — Chat-based editable design generation could bridge the gap between AI mockups and real design work.",
+      "category": "hot",
+      "tags": [
+        "kodo",
+        "ai-design", 
+        "editable",
+        "product-hunt",
+        "chat-interface"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "vectosolve-ai-svg-animation-comparison",
+      "date": "2026-03-09",
+      "title": "VectoSolve AI SVG Animation Tool — 8-Second Generation vs Adobe/Rive Comparison",
+      "url": "https://vectosolve.com/blog/ai-svg-animation-tools-2026",
+      "source_url": "https://vectosolve.com/blog/ai-svg-animation-tools-2026",
+      "description": "Comprehensive comparison testing VectoSolve's AI-native SVG animation against Adobe Animate, Rive, and others. VectoSolve scored 9.2/10, generating production-ready animations from text prompts in 8 seconds. Pure CSS output, no JavaScript dependencies.",
+      "verdict": "Try it — If you animate SVGs frequently, this speed advantage is massive. 8 seconds vs 45+ minutes in Adobe.",
+      "category": "hot",
+      "tags": [
+        "vectosolve",
+        "svg-animation",
+        "ai-native",
+        "comparison",
+        "speed"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "acai-accessibility-cloud-ai",
+      "date": "2026-03-09",
+      "title": "ACAI by Accessibility Cloud — AI Accessibility Testing Engine Combines Multiple Tools",
+      "url": "https://www.accessibilitycloud.com/acai-is-here/",
+      "source_url": "https://www.accessibilitycloud.com/acai-is-here/",
+      "description": "New AI accessibility testing tool combines AI with proprietary rule-based engine and multiple testing components. Claims to catch more real accessibility issues than any single engine. Addresses the 70% of WCAG criteria that automated tools miss.",
+      "verdict": "Watch it — Accessibility testing is a real pain point. If ACAI delivers on catching human-level accessibility issues, it's significant.",
+      "category": "hot",
+      "tags": [
+        "acai",
+        "accessibility",
+        "ai-testing",
+        "wcag",
+        "automation"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "collectiviq-ai-consensus-platform",
+      "date": "2026-03-09", 
+      "title": "CollectivIQ — World's First AI Consensus Platform Unifying ChatGPT, Claude, Gemini, Grok",
+      "url": "https://www.prnewswire.com/news-releases/collectiviq-launches-worlds-first-ai-consensus-platform-unifying-responses-from-chatgpt-claude-gemini-and-grok-302704024.html",
+      "source_url": "https://www.prnewswire.com/news-releases/collectiviq-launches-worlds-first-ai-consensus-platform-unifying-responses-from-chatgpt-claude-gemini-and-grok-302704024.html",
+      "description": "CollectivIQ launches as first AI consensus platform providing cross-model verification instead of single unverified outputs. Offers collaborative tools, organizational knowledge, team visibility into workflows. Building company 'brain' over time.",
+      "verdict": "Watch it — Consensus approach could solve AI hallucination problems for enterprise teams. Collaborative angle is interesting.",
+      "category": "hot",
+      "tags": [
+        "collectiviq",
+        "ai-consensus",
+        "multi-model",
+        "enterprise",
+        "collaboration"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "claude-integrations-slack-figma-asana",
+      "date": "2026-03-09",
+      "title": "Tom's Guide: Claude Integrations with Slack, Figma, Asana — Real Workflow Testing",
+      "url": "https://www.tomsguide.com/ai/i-put-claude-inside-slack-figma-and-asana-heres-what-actually-happened",
+      "source_url": "https://www.tomsguide.com/ai/i-put-claude-inside-slack-figma-and-asana-heres-what-actually-happened",
+      "description": "Tom's Guide tests Claude's real-world integrations across Slack, Figma, and Asana to see how AI fits into actual workflows. Practical results of MCP integrations in daily work scenarios.",
+      "verdict": "Worth reading — Real-world integration testing shows what actually works vs. marketing hype.",
+      "category": "tip",
+      "tags": [
+        "claude",
+        "integrations",
+        "slack",
+        "figma", 
+        "asana",
+        "mcp",
+        "real-world"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "claude-code-developer-survey-dominance",
+      "date": "2026-03-09",
+      "title": "AI Tooling Survey: Claude Code Leads Pack, Followed by ChatGPT and GitHub Copilot",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
+      "source_url": "https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
+      "description": "Pragmatic Engineer newsletter reports Claude Code leading developer AI tool usage, followed by chatbots and GitHub Copilot. Cursor rising fast, newcomers like Codex and Antigravity gaining traction.",
+      "verdict": "Important data point — Claude Code's dominance validates the coding assistant approach over pure generation tools.",
+      "category": "tip",
+      "tags": [
+        "claude-code",
+        "survey",
+        "developer-tools",
+        "usage-stats",
+        "dominance"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "tripo-3d-smart-mesh-update-yt",
+      "date": "2026-03-09",
+      "title": "Tripo 3D Smart Mesh Update — Incredible Fast Processing with Good Results (YouTube)",
+      "url": "https://www.youtube.com/watch?v=CDpwNqcuuwA",
+      "source_url": "https://www.youtube.com/watch?v=CDpwNqcuuwA",
+      "description": "Tripo 3D generative AI gets Smart Mesh update with incredibly fast processing while maintaining good results. 3D model generation workflow improvements for design teams.",
+      "verdict": "Try it — If you work with 3D assets, faster generation could save significant time in concept phases.",
+      "category": "tip",
+      "tags": [
+        "tripo3d",
+        "3d-generation",
+        "smart-mesh",
+        "performance"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "best-ai-website-builder-comparison-yt",
+      "date": "2026-03-09",
+      "title": "Best AI Website Builder for 2026? Lovable vs Base44 vs Hostinger vs Sticklight (YouTube)",
+      "url": "https://www.youtube.com/watch?v=C3WtIVJ9mVg",
+      "source_url": "https://www.youtube.com/watch?v=C3WtIVJ9mVg",
+      "description": "Comprehensive comparison of AI website builders evolving incredibly fast. Covers new trend called 'vibe coding' changing how people build websites and web apps. Instead of writing code, describe what you want.",
+      "verdict": "Watch it — Good overview of rapidly evolving vibe coding tools. Helps navigate the crowded AI builder space.",
+      "category": "tip",
+      "tags": [
+        "ai-website-builder",
+        "comparison",
+        "lovable",
+        "vibe-coding",
+        "tools"
+      ],
+      "is_youtube": true
     }
   ]
 }
