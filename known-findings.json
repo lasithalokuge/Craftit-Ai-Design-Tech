@@ -1916,6 +1916,66 @@
         "tools"
       ],
       "is_youtube": true
+    },
+    {
+      "id": "moonchild-ai-design-systems",
+      "title": "Moonchild AI — AI Design System Generator for Real Product Design",
+      "date": "2026-03-10",
+      "category": "hot"
+    },
+    {
+      "id": "dzine-ai-rebrand-stylar",
+      "title": "Dzine AI (formerly Stylar AI) — All-in-one AI image and video tool with 120+ effects",
+      "date": "2026-03-10",
+      "category": "hot"
+    },
+    {
+      "id": "seedream-5-0-web-search",
+      "title": "Seedream 5.0 — ByteDance's AI image model with real-time web search (Feb 2026)",
+      "date": "2026-03-10",
+      "category": "hot"
+    },
+    {
+      "id": "gpt-image-1-5-edit-consistency",
+      "title": "GPT Image 1.5 — OpenAI's latest with enhanced edit consistency",
+      "date": "2026-03-10",
+      "category": "hot"
+    },
+    {
+      "id": "nano-banana-pro-google",
+      "title": "Nano Banana Pro — Google's flagship AI image generation model (Gemini 3)",
+      "date": "2026-03-10",
+      "category": "hot"
+    },
+    {
+      "id": "elevenlabs-voice-design-v3",
+      "title": "ElevenLabs Voice Design v3 — Create custom AI voices (March 6, 2026)",
+      "date": "2026-03-10",
+      "category": "hot"
+    },
+    {
+      "id": "tripo-3d-smart-mesh-march",
+      "title": "Tripo 3D Smart Mesh Update — Faster 3D processing with better results (March 2026)",
+      "date": "2026-03-10",
+      "category": "tip"
+    },
+    {
+      "id": "base44-ai-no-code",
+      "title": "Base44 — AI no-code app builder, English to full-stack apps",
+      "date": "2026-03-10",
+      "category": "try"
+    },
+    {
+      "id": "banani-ai-text-ui",
+      "title": "Banani AI — Text-to-UI tool for professional multi-screen flows",
+      "date": "2026-03-10",
+      "category": "try"
+    },
+    {
+      "id": "ux-pilot-ai-frameworks",
+      "title": "UX Pilot — AI-generated screen flows and UX frameworks",
+      "date": "2026-03-10",
+      "category": "try"
     }
   ]
 }
