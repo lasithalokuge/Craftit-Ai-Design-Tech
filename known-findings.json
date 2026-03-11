@@ -1976,6 +1976,42 @@
       "title": "UX Pilot — AI-generated screen flows and UX frameworks",
       "date": "2026-03-10",
       "category": "try"
+    },
+    {
+      "id": "figma-weave-weavy-acquisition",
+      "title": "Figma Weave — AI-native creation with video, animation & VFX",
+      "date": "2026-03-11",
+      "category": "hot"
+    },
+    {
+      "id": "shadcn-cli-v4-ai-agents",
+      "title": "shadcn/ui CLI v4 — AI Agent Skills & Design System Presets",
+      "date": "2026-03-11",
+      "category": "hot"
+    },
+    {
+      "id": "pencil-ai-multi-agent-design",
+      "title": "Pencil AI — 6 AI agents design apps collaboratively",
+      "date": "2026-03-11",
+      "category": "hot"
+    },
+    {
+      "id": "figma-slots-tutorial-2026",
+      "title": "Figma Slots — New 2026 component system feature",
+      "date": "2026-03-11",
+      "category": "tip"
+    },
+    {
+      "id": "figma-make-code-export",
+      "title": "Figma Make AI Code Export — Generate HTML/CSS directly",
+      "date": "2026-03-11",
+      "category": "tip"
+    },
+    {
+      "id": "gpt-5-4-release-design",
+      "title": "OpenAI GPT-5.4 — Enhanced coding & reasoning for design workflows",
+      "date": "2026-03-11",
+      "category": "update"
     }
   ]
 }
