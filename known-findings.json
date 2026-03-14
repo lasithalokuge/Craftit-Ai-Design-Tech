@@ -957,7 +957,7 @@
     },
     {
       "id": "visual-electric-shutdown",
-      "title": "Visual Electric Shut Down/Acquired — Designers Report Tool Unavailable",
+      "title": "Visual Electric Shut Down/Acquired \u2014 Designers Report Tool Unavailable",
       "date": "2026-03-04",
       "category": "update"
     },
@@ -969,7 +969,7 @@
     },
     {
       "id": "google-grpc-mcp",
-      "title": "Google Pushes gRPC Transport into MCP — Enterprise Microservices Integration",
+      "title": "Google Pushes gRPC Transport into MCP \u2014 Enterprise Microservices Integration",
       "date": "2026-03-05",
       "category": "tip"
     },
@@ -981,7 +981,7 @@
     },
     {
       "id": "nist-agent-security-standards",
-      "title": "NIST Launches AI Agent Standards Initiative — Government Security Framework",
+      "title": "NIST Launches AI Agent Standards Initiative \u2014 Government Security Framework",
       "date": "2026-03-05",
       "category": "radar"
     },
@@ -1005,7 +1005,7 @@
     },
     {
       "id": "product-hunt-vibe-coding-category",
-      "title": "Product Hunt Launches Dedicated 'Vibe Coding' Category — AI-First Development Goes Mainstream",
+      "title": "Product Hunt Launches Dedicated 'Vibe Coding' Category \u2014 AI-First Development Goes Mainstream",
       "date": "2026-03-06",
       "category": "update"
     },
@@ -1017,19 +1017,19 @@
     },
     {
       "id": "google-stitch-free-beta-2026",
-      "title": "Google Stitch (Formerly Galileo AI) Free Beta — Text-to-Figma with MCP Export",
+      "title": "Google Stitch (Formerly Galileo AI) Free Beta \u2014 Text-to-Figma with MCP Export",
       "date": "2026-03-07",
       "category": "tip"
     },
     {
       "id": "reddit-ai-design-stylized-tools",
-      "title": "Reddit Discussion: Genuinely Good Stylized AI Design Tools — Designer Reality Check",
+      "title": "Reddit Discussion: Genuinely Good Stylized AI Design Tools \u2014 Designer Reality Check",
       "date": "2026-03-07",
       "category": "update"
     },
     {
       "id": "adversa-ai-mcp-security",
-      "title": "Top MCP Security Resources — Enterprise Access Control Architecture Guide",
+      "title": "Top MCP Security Resources \u2014 Enterprise Access Control Architecture Guide",
       "date": "2026-03-07",
       "category": "tip"
     },
@@ -1470,7 +1470,7 @@
       "url": "https://openai.com/index/figma-partnership/",
       "source_url": "https://openai.com/index/figma-partnership/",
       "description": "Official OpenAI Codex integration with Figma via MCP Server. Engineers can generate Figma designs from Codex and implement designs back into code. Creates new roundtrip workflow where teams start anywhere (prompt, code, or design) and move forward with speed. Complements existing Anthropic/Claude Code partnership.",
-      "verdict": "Historic — both major AI providers (OpenAI & Anthropic) now connect directly to Figma via MCP.",
+      "verdict": "Historic \u2014 both major AI providers (OpenAI & Anthropic) now connect directly to Figma via MCP.",
       "category": "hot",
       "tags": [
         "openai",
@@ -1485,11 +1485,11 @@
     {
       "id": "mcp-apps-interactive-ui",
       "date": "2026-03-03",
-      "title": "MCP Apps — Interactive UIs Render in AI Clients",
+      "title": "MCP Apps \u2014 Interactive UIs Render in AI Clients",
       "url": "https://workos.com/blog/2026-01-27-mcp-apps",
       "source_url": "https://workos.com/blog/2026-01-27-mcp-apps",
       "description": "First official MCP extension announced January 26, 2026. MCP Apps let third-party applications render interactive UI components directly inside AI chat windows. Tools can now return rich interfaces (dashboards, design editors, formatted messages) in sandboxed iframes. Works across Claude, ChatGPT, VS Code, and any MCP-compatible client.",
-      "verdict": "Game-changer — AI conversations can now host interactive apps, not just text responses.",
+      "verdict": "Game-changer \u2014 AI conversations can now host interactive apps, not just text responses.",
       "category": "hot",
       "tags": [
         "mcp-apps",
@@ -1508,7 +1508,7 @@
       "url": "https://v0.app/changelog",
       "source_url": "https://v0.app/changelog",
       "description": "v0 changelog shows AI SDK v6 support for agents added January 21, 2026. Also includes credit rollover, improved GitHub flow, and new Folders/Projects structure. Signals v0's move toward agentic workflows beyond just UI generation.",
-      "verdict": "v0 evolving from UI generator to full agentic platform — aligned with Vercel's 2026 agent vision.",
+      "verdict": "v0 evolving from UI generator to full agentic platform \u2014 aligned with Vercel's 2026 agent vision.",
       "category": "update",
       "tags": [
         "v0",
@@ -1560,7 +1560,7 @@
       "url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
       "source_url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
       "description": "January 26, 2026 video walking through real AI-supported design system workflow. Focuses on where AI actually helps vs. replacing design work. Practical perspective on current state of AI in design systems.",
-      "verdict": "Realistic take on AI's current role in design systems — augmentation, not replacement.",
+      "verdict": "Realistic take on AI's current role in design systems \u2014 augmentation, not replacement.",
       "category": "tip",
       "tags": [
         "ai-design-systems",
@@ -1577,7 +1577,7 @@
       "url": "https://www.youtube.com/watch?v=Y0n6F9VlLVc",
       "source_url": "https://www.youtube.com/watch?v=Y0n6F9VlLVc",
       "description": "January 19, 2026 report on how top teams are actually using AI in design workflows. Stephen Haney analysis of real-world AI adoption in design teams.",
-      "verdict": "Important field report — shows gap between AI hype and practical adoption.",
+      "verdict": "Important field report \u2014 shows gap between AI hype and practical adoption.",
       "category": "tip",
       "tags": [
         "field-report",
@@ -1590,7 +1590,7 @@
     {
       "id": "claude-no-mcp-figma-yt",
       "date": "2026-03-03",
-      "title": "Tutorial: Claude Code designs for me in Figma ❌ No MCP needed",
+      "title": "Tutorial: Claude Code designs for me in Figma \u274c No MCP needed",
       "url": "https://www.youtube.com/watch?v=DEsxUXlXv5M",
       "source_url": "https://www.youtube.com/watch?v=DEsxUXlXv5M",
       "description": "6-day-old tutorial showing CLI that connects Claude Code to Figma Desktop without MCP setup. 60-second connection process, no API key required. Alternative to complex MCP server setup.",
@@ -1612,7 +1612,7 @@
       "url": "https://www.youtube.com/watch?v=4avgt3ahyk8",
       "source_url": "https://www.youtube.com/watch?v=4avgt3ahyk8",
       "description": "1-week-old video showing how to build entire design system in Figma directly from production codebase using Claude Code with Figma Console MCP. No manual copying required.",
-      "verdict": "Demonstrates mature code→Figma design system workflow becoming practical.",
+      "verdict": "Demonstrates mature code\u2192Figma design system workflow becoming practical.",
       "category": "hot",
       "tags": [
         "design-system",
@@ -1660,37 +1660,37 @@
     },
     {
       "id": "figma-weave-acquisition",
-      "title": "Figma Weave — Figma acquires Weavy for $200M+ to bring generative AI to canvas",
+      "title": "Figma Weave \u2014 Figma acquires Weavy for $200M+ to bring generative AI to canvas",
       "date": "2026-03-07",
       "category": "hot"
     },
     {
       "id": "openpencil-figma-alternative",
-      "title": "OpenPencil — Open-source, AI-native Figma alternative with MCP support",
+      "title": "OpenPencil \u2014 Open-source, AI-native Figma alternative with MCP support",
       "date": "2026-03-07",
       "category": "hot"
     },
     {
       "id": "google-antigravity-ide",
-      "title": "Google Antigravity — AI-first IDE for vibe coding with autonomous agents",
+      "title": "Google Antigravity \u2014 AI-first IDE for vibe coding with autonomous agents",
       "date": "2026-03-07",
       "category": "hot"
     },
     {
       "id": "figma-ai-bridge-mcp",
-      "title": "Figma AI Bridge — Connect Claude Code to Figma via MCP for AI-assisted design",
+      "title": "Figma AI Bridge \u2014 Connect Claude Code to Figma via MCP for AI-assisted design",
       "date": "2026-03-07",
       "category": "hot"
     },
     {
       "id": "into-design-systems-conference-2026",
-      "title": "Into Design Systems Conference 2026 — AI Design Systems & Vibe Coding Sessions",
+      "title": "Into Design Systems Conference 2026 \u2014 AI Design Systems & Vibe Coding Sessions",
       "date": "2026-03-07",
       "category": "radar"
     },
     {
       "id": "paper-figma-killer",
-      "title": "Paper — AI-native design tool positioning as Figma competitor",
+      "title": "Paper \u2014 AI-native design tool positioning as Figma competitor",
       "date": "2026-03-07",
       "category": "radar"
     },
@@ -1708,82 +1708,82 @@
     },
     {
       "id": "github-copilot-figma-integration",
-      "title": "GitHub Copilot to Figma — Push rendered UI to canvas as editable frames",
+      "title": "GitHub Copilot to Figma \u2014 Push rendered UI to canvas as editable frames",
       "date": "2026-03-08",
       "category": "hot"
     },
     {
       "id": "figma-slots-open-beta",
-      "title": "Figma Slots — Dynamic component instances without detaching (open beta)",
+      "title": "Figma Slots \u2014 Dynamic component instances without detaching (open beta)",
       "date": "2026-03-08",
       "category": "hot"
     },
     {
       "id": "figma-multiple-component-mappings",
-      "title": "Figma Code Connect — Multiple component mappings in UI for all frameworks",
+      "title": "Figma Code Connect \u2014 Multiple component mappings in UI for all frameworks",
       "date": "2026-03-08",
       "category": "tip"
     },
     {
       "id": "figma-codex-integration",
-      "title": "Codex to Figma — Generate Figma Design files from Codex via MCP server",
+      "title": "Codex to Figma \u2014 Generate Figma Design files from Codex via MCP server",
       "date": "2026-03-08",
       "category": "hot"
     },
     {
       "id": "v0-production-revamp",
-      "title": "v0 by Vercel — Major revamp: from prototyping to production deployment",
+      "title": "v0 by Vercel \u2014 Major revamp: from prototyping to production deployment",
       "date": "2026-03-08",
       "category": "hot"
     },
     {
       "id": "v0-git-workflows",
-      "title": "v0 Git Panel — Non-technical users can create branches and open PRs",
+      "title": "v0 Git Panel \u2014 Non-technical users can create branches and open PRs",
       "date": "2026-03-08",
       "category": "tip"
     },
     {
       "id": "google-stitch-gemini-powered",
-      "title": "Google Stitch 2026 — Galileo AI rebranded with Gemini, free in beta",
+      "title": "Google Stitch 2026 \u2014 Galileo AI rebranded with Gemini, free in beta",
       "date": "2026-03-08",
       "category": "update"
     },
     {
       "id": "claude-artifacts-nested-api",
-      "title": "Claude Artifacts — 'Claude in Claude' nested API calls for AI-powered apps",
+      "title": "Claude Artifacts \u2014 'Claude in Claude' nested API calls for AI-powered apps",
       "date": "2026-03-08",
       "category": "hot"
     },
     {
       "id": "uizard-autodesigner-2-conversational",
-      "title": "Uizard Autodesigner 2.0 — ChatGPT-style conversational design iteration",
+      "title": "Uizard Autodesigner 2.0 \u2014 ChatGPT-style conversational design iteration",
       "date": "2026-03-08",
       "category": "tip"
     },
     {
       "id": "relume-monotype-integration",
-      "title": "Relume x Monotype — Preview premium fonts directly in platform",
+      "title": "Relume x Monotype \u2014 Preview premium fonts directly in platform",
       "date": "2026-03-08",
       "category": "tip"
     },
     {
       "id": "banani-ai-funding-850k",
-      "title": "Banani AI — Raises €850k, adds MCP server & multi-screen generations",
+      "title": "Banani AI \u2014 Raises \u20ac850k, adds MCP server & multi-screen generations",
       "date": "2026-03-08",
       "category": "update"
     },
     {
       "id": "kodo-ai-design-ph-launch",
       "date": "2026-03-09",
-      "title": "Kodo — AI Design Tool for Fully Editable Designs (Product Hunt Launch)",
+      "title": "Kodo \u2014 AI Design Tool for Fully Editable Designs (Product Hunt Launch)",
       "url": "https://www.producthunt.com/products/kodo-3",
       "source_url": "https://www.producthunt.com/products/kodo-3",
       "description": "Kodo launches on Product Hunt as an AI design tool that creates fully editable designs through AI chat. Unlike static generators, Kodo provides designs you can actually iterate on and modify. Positioned as next-gen design workflow.",
-      "verdict": "Try it — Chat-based editable design generation could bridge the gap between AI mockups and real design work.",
+      "verdict": "Try it \u2014 Chat-based editable design generation could bridge the gap between AI mockups and real design work.",
       "category": "hot",
       "tags": [
         "kodo",
-        "ai-design", 
+        "ai-design",
         "editable",
         "product-hunt",
         "chat-interface"
@@ -1793,11 +1793,11 @@
     {
       "id": "vectosolve-ai-svg-animation-comparison",
       "date": "2026-03-09",
-      "title": "VectoSolve AI SVG Animation Tool — 8-Second Generation vs Adobe/Rive Comparison",
+      "title": "VectoSolve AI SVG Animation Tool \u2014 8-Second Generation vs Adobe/Rive Comparison",
       "url": "https://vectosolve.com/blog/ai-svg-animation-tools-2026",
       "source_url": "https://vectosolve.com/blog/ai-svg-animation-tools-2026",
       "description": "Comprehensive comparison testing VectoSolve's AI-native SVG animation against Adobe Animate, Rive, and others. VectoSolve scored 9.2/10, generating production-ready animations from text prompts in 8 seconds. Pure CSS output, no JavaScript dependencies.",
-      "verdict": "Try it — If you animate SVGs frequently, this speed advantage is massive. 8 seconds vs 45+ minutes in Adobe.",
+      "verdict": "Try it \u2014 If you animate SVGs frequently, this speed advantage is massive. 8 seconds vs 45+ minutes in Adobe.",
       "category": "hot",
       "tags": [
         "vectosolve",
@@ -1811,11 +1811,11 @@
     {
       "id": "acai-accessibility-cloud-ai",
       "date": "2026-03-09",
-      "title": "ACAI by Accessibility Cloud — AI Accessibility Testing Engine Combines Multiple Tools",
+      "title": "ACAI by Accessibility Cloud \u2014 AI Accessibility Testing Engine Combines Multiple Tools",
       "url": "https://www.accessibilitycloud.com/acai-is-here/",
       "source_url": "https://www.accessibilitycloud.com/acai-is-here/",
       "description": "New AI accessibility testing tool combines AI with proprietary rule-based engine and multiple testing components. Claims to catch more real accessibility issues than any single engine. Addresses the 70% of WCAG criteria that automated tools miss.",
-      "verdict": "Watch it — Accessibility testing is a real pain point. If ACAI delivers on catching human-level accessibility issues, it's significant.",
+      "verdict": "Watch it \u2014 Accessibility testing is a real pain point. If ACAI delivers on catching human-level accessibility issues, it's significant.",
       "category": "hot",
       "tags": [
         "acai",
@@ -1828,12 +1828,12 @@
     },
     {
       "id": "collectiviq-ai-consensus-platform",
-      "date": "2026-03-09", 
-      "title": "CollectivIQ — World's First AI Consensus Platform Unifying ChatGPT, Claude, Gemini, Grok",
+      "date": "2026-03-09",
+      "title": "CollectivIQ \u2014 World's First AI Consensus Platform Unifying ChatGPT, Claude, Gemini, Grok",
       "url": "https://www.prnewswire.com/news-releases/collectiviq-launches-worlds-first-ai-consensus-platform-unifying-responses-from-chatgpt-claude-gemini-and-grok-302704024.html",
       "source_url": "https://www.prnewswire.com/news-releases/collectiviq-launches-worlds-first-ai-consensus-platform-unifying-responses-from-chatgpt-claude-gemini-and-grok-302704024.html",
       "description": "CollectivIQ launches as first AI consensus platform providing cross-model verification instead of single unverified outputs. Offers collaborative tools, organizational knowledge, team visibility into workflows. Building company 'brain' over time.",
-      "verdict": "Watch it — Consensus approach could solve AI hallucination problems for enterprise teams. Collaborative angle is interesting.",
+      "verdict": "Watch it \u2014 Consensus approach could solve AI hallucination problems for enterprise teams. Collaborative angle is interesting.",
       "category": "hot",
       "tags": [
         "collectiviq",
@@ -1847,17 +1847,17 @@
     {
       "id": "claude-integrations-slack-figma-asana",
       "date": "2026-03-09",
-      "title": "Tom's Guide: Claude Integrations with Slack, Figma, Asana — Real Workflow Testing",
+      "title": "Tom's Guide: Claude Integrations with Slack, Figma, Asana \u2014 Real Workflow Testing",
       "url": "https://www.tomsguide.com/ai/i-put-claude-inside-slack-figma-and-asana-heres-what-actually-happened",
       "source_url": "https://www.tomsguide.com/ai/i-put-claude-inside-slack-figma-and-asana-heres-what-actually-happened",
       "description": "Tom's Guide tests Claude's real-world integrations across Slack, Figma, and Asana to see how AI fits into actual workflows. Practical results of MCP integrations in daily work scenarios.",
-      "verdict": "Worth reading — Real-world integration testing shows what actually works vs. marketing hype.",
+      "verdict": "Worth reading \u2014 Real-world integration testing shows what actually works vs. marketing hype.",
       "category": "tip",
       "tags": [
         "claude",
         "integrations",
         "slack",
-        "figma", 
+        "figma",
         "asana",
         "mcp",
         "real-world"
@@ -1871,7 +1871,7 @@
       "url": "https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
       "source_url": "https://newsletter.pragmaticengineer.com/p/ai-tooling-2026",
       "description": "Pragmatic Engineer newsletter reports Claude Code leading developer AI tool usage, followed by chatbots and GitHub Copilot. Cursor rising fast, newcomers like Codex and Antigravity gaining traction.",
-      "verdict": "Important data point — Claude Code's dominance validates the coding assistant approach over pure generation tools.",
+      "verdict": "Important data point \u2014 Claude Code's dominance validates the coding assistant approach over pure generation tools.",
       "category": "tip",
       "tags": [
         "claude-code",
@@ -1885,11 +1885,11 @@
     {
       "id": "tripo-3d-smart-mesh-update-yt",
       "date": "2026-03-09",
-      "title": "Tripo 3D Smart Mesh Update — Incredible Fast Processing with Good Results (YouTube)",
+      "title": "Tripo 3D Smart Mesh Update \u2014 Incredible Fast Processing with Good Results (YouTube)",
       "url": "https://www.youtube.com/watch?v=CDpwNqcuuwA",
       "source_url": "https://www.youtube.com/watch?v=CDpwNqcuuwA",
       "description": "Tripo 3D generative AI gets Smart Mesh update with incredibly fast processing while maintaining good results. 3D model generation workflow improvements for design teams.",
-      "verdict": "Try it — If you work with 3D assets, faster generation could save significant time in concept phases.",
+      "verdict": "Try it \u2014 If you work with 3D assets, faster generation could save significant time in concept phases.",
       "category": "tip",
       "tags": [
         "tripo3d",
@@ -1906,7 +1906,7 @@
       "url": "https://www.youtube.com/watch?v=C3WtIVJ9mVg",
       "source_url": "https://www.youtube.com/watch?v=C3WtIVJ9mVg",
       "description": "Comprehensive comparison of AI website builders evolving incredibly fast. Covers new trend called 'vibe coding' changing how people build websites and web apps. Instead of writing code, describe what you want.",
-      "verdict": "Watch it — Good overview of rapidly evolving vibe coding tools. Helps navigate the crowded AI builder space.",
+      "verdict": "Watch it \u2014 Good overview of rapidly evolving vibe coding tools. Helps navigate the crowded AI builder space.",
       "category": "tip",
       "tags": [
         "ai-website-builder",
@@ -1919,183 +1919,225 @@
     },
     {
       "id": "moonchild-ai-design-systems",
-      "title": "Moonchild AI — AI Design System Generator for Real Product Design",
+      "title": "Moonchild AI \u2014 AI Design System Generator for Real Product Design",
       "date": "2026-03-10",
       "category": "hot"
     },
     {
       "id": "dzine-ai-rebrand-stylar",
-      "title": "Dzine AI (formerly Stylar AI) — All-in-one AI image and video tool with 120+ effects",
+      "title": "Dzine AI (formerly Stylar AI) \u2014 All-in-one AI image and video tool with 120+ effects",
       "date": "2026-03-10",
       "category": "hot"
     },
     {
       "id": "seedream-5-0-web-search",
-      "title": "Seedream 5.0 — ByteDance's AI image model with real-time web search (Feb 2026)",
+      "title": "Seedream 5.0 \u2014 ByteDance's AI image model with real-time web search (Feb 2026)",
       "date": "2026-03-10",
       "category": "hot"
     },
     {
       "id": "gpt-image-1-5-edit-consistency",
-      "title": "GPT Image 1.5 — OpenAI's latest with enhanced edit consistency",
+      "title": "GPT Image 1.5 \u2014 OpenAI's latest with enhanced edit consistency",
       "date": "2026-03-10",
       "category": "hot"
     },
     {
       "id": "nano-banana-pro-google",
-      "title": "Nano Banana Pro — Google's flagship AI image generation model (Gemini 3)",
+      "title": "Nano Banana Pro \u2014 Google's flagship AI image generation model (Gemini 3)",
       "date": "2026-03-10",
       "category": "hot"
     },
     {
       "id": "elevenlabs-voice-design-v3",
-      "title": "ElevenLabs Voice Design v3 — Create custom AI voices (March 6, 2026)",
+      "title": "ElevenLabs Voice Design v3 \u2014 Create custom AI voices (March 6, 2026)",
       "date": "2026-03-10",
       "category": "hot"
     },
     {
       "id": "tripo-3d-smart-mesh-march",
-      "title": "Tripo 3D Smart Mesh Update — Faster 3D processing with better results (March 2026)",
+      "title": "Tripo 3D Smart Mesh Update \u2014 Faster 3D processing with better results (March 2026)",
       "date": "2026-03-10",
       "category": "tip"
     },
     {
       "id": "base44-ai-no-code",
-      "title": "Base44 — AI no-code app builder, English to full-stack apps",
+      "title": "Base44 \u2014 AI no-code app builder, English to full-stack apps",
       "date": "2026-03-10",
       "category": "try"
     },
     {
       "id": "banani-ai-text-ui",
-      "title": "Banani AI — Text-to-UI tool for professional multi-screen flows",
+      "title": "Banani AI \u2014 Text-to-UI tool for professional multi-screen flows",
       "date": "2026-03-10",
       "category": "try"
     },
     {
       "id": "ux-pilot-ai-frameworks",
-      "title": "UX Pilot — AI-generated screen flows and UX frameworks",
+      "title": "UX Pilot \u2014 AI-generated screen flows and UX frameworks",
       "date": "2026-03-10",
       "category": "try"
     },
     {
       "id": "figma-weave-weavy-acquisition",
-      "title": "Figma Weave — AI-native creation with video, animation & VFX",
+      "title": "Figma Weave \u2014 AI-native creation with video, animation & VFX",
       "date": "2026-03-11",
       "category": "hot"
     },
     {
       "id": "shadcn-cli-v4-ai-agents",
-      "title": "shadcn/ui CLI v4 — AI Agent Skills & Design System Presets",
+      "title": "shadcn/ui CLI v4 \u2014 AI Agent Skills & Design System Presets",
       "date": "2026-03-11",
       "category": "hot"
     },
     {
       "id": "pencil-ai-multi-agent-design",
-      "title": "Pencil AI — 6 AI agents design apps collaboratively",
+      "title": "Pencil AI \u2014 6 AI agents design apps collaboratively",
       "date": "2026-03-11",
       "category": "hot"
     },
     {
       "id": "figma-slots-tutorial-2026",
-      "title": "Figma Slots — New 2026 component system feature",
+      "title": "Figma Slots \u2014 New 2026 component system feature",
       "date": "2026-03-11",
       "category": "tip"
     },
     {
       "id": "figma-make-code-export",
-      "title": "Figma Make AI Code Export — Generate HTML/CSS directly",
+      "title": "Figma Make AI Code Export \u2014 Generate HTML/CSS directly",
       "date": "2026-03-11",
       "category": "tip"
     },
     {
       "id": "gpt-5-4-release-design",
-      "title": "OpenAI GPT-5.4 — Enhanced coding & reasoning for design workflows",
+      "title": "OpenAI GPT-5.4 \u2014 Enhanced coding & reasoning for design workflows",
       "date": "2026-03-11",
       "category": "update"
     },
     {
       "id": "coreldraw-2026-ai-generate",
-      "title": "CorelDRAW Graphics Suite 2026 — Major AI Integration with Artist Intelligence",
+      "title": "CorelDRAW Graphics Suite 2026 \u2014 Major AI Integration with Artist Intelligence",
       "date": "2026-03-12",
       "category": "hot"
     },
     {
       "id": "wispr-flow-android-launch-tc",
-      "title": "Wispr Flow Launches Android App — TechCrunch Coverage of AI Dictation Expansion",
+      "title": "Wispr Flow Launches Android App \u2014 TechCrunch Coverage of AI Dictation Expansion",
       "date": "2026-03-12",
       "category": "hot"
     },
     {
       "id": "figr-ai-ux-agent-product-hunt",
-      "title": "Figr AI — Product-Aware UX Agent for Product Teams (Top Product Hunt)",
+      "title": "Figr AI \u2014 Product-Aware UX Agent for Product Teams (Top Product Hunt)",
       "date": "2026-03-12",
       "category": "hot"
     },
     {
       "id": "insforge-ai-agent-backend-15m",
-      "title": "InsForge — $1.5M Raised for AI Agent Backend Platform (2.3K GitHub Stars)",
+      "title": "InsForge \u2014 $1.5M Raised for AI Agent Backend Platform (2.3K GitHub Stars)",
       "date": "2026-03-12",
       "category": "hot"
     },
     {
       "id": "european-accessibility-act-april-2026",
-      "title": "European Accessibility Act April 2026 Deadline — Major Compliance Push Underway",
+      "title": "European Accessibility Act April 2026 Deadline \u2014 Major Compliance Push Underway",
       "date": "2026-03-12",
       "category": "tip"
     },
     {
       "id": "launch-shots-ai-app-store-visuals",
-      "title": "Launch Shots — AI-Powered App Store Visual Creation with Device Frames",
+      "title": "Launch Shots \u2014 AI-Powered App Store Visual Creation with Device Frames",
       "date": "2026-03-12",
       "category": "tip"
     },
     {
       "id": "wispr-flow-2026-reviews-capabilities",
-      "title": "Wispr Flow 2026 Reviews — AI Voice Dictation Performance & Privacy Analysis",
+      "title": "Wispr Flow 2026 Reviews \u2014 AI Voice Dictation Performance & Privacy Analysis",
       "date": "2026-03-12",
       "category": "tip"
     },
     {
       "id": "into-design-systems-conference-2026",
-      "title": "Into Design Systems Conference 2026 — AI Design Systems & Vibe Coding Sessions",
+      "title": "Into Design Systems Conference 2026 \u2014 AI Design Systems & Vibe Coding Sessions",
       "date": "2026-03-13",
       "category": "hot"
     },
     {
       "id": "claude-code-for-designers-trend",
-      "title": "Claude Code for Designers — Empowering Designers to Build Beyond Static Screens",
+      "title": "Claude Code for Designers \u2014 Empowering Designers to Build Beyond Static Screens",
       "date": "2026-03-13",
       "category": "hot"
     },
     {
       "id": "designers-leaving-figma-2026",
-      "title": "Designers Leaving Figma 2026 — Building-First Mindset Shift to AI Coding Platforms",
+      "title": "Designers Leaving Figma 2026 \u2014 Building-First Mindset Shift to AI Coding Platforms",
       "date": "2026-03-13",
       "category": "hot"
     },
     {
       "id": "codeconductor-ai-enterprise",
-      "title": "CodeConductor AI — Enterprise Figma Make Alternative with Security & Governance",
+      "title": "CodeConductor AI \u2014 Enterprise Figma Make Alternative with Security & Governance",
       "date": "2026-03-13",
       "category": "try"
     },
     {
       "id": "uizard-alternatives-2026-tested",
-      "title": "6 Uizard Alternatives Tested (2026) — Comprehensive AI Design Tool Comparison",
+      "title": "6 Uizard Alternatives Tested (2026) \u2014 Comprehensive AI Design Tool Comparison",
       "date": "2026-03-13",
       "category": "tip"
     },
     {
       "id": "figma-ai-vs-google-stitch-comparison",
-      "title": "Figma AI vs Google Stitch (2026) — Complete Feature & Code Generation Comparison",
+      "title": "Figma AI vs Google Stitch (2026) \u2014 Complete Feature & Code Generation Comparison",
       "date": "2026-03-13",
       "category": "tip"
     },
     {
       "id": "config-2026-ai-agents-as-users",
-      "title": "Config 2026 Speakers — AI Agents as Users & Vibe Coding Future Predictions",
+      "title": "Config 2026 Speakers \u2014 AI Agents as Users & Vibe Coding Future Predictions",
       "date": "2026-03-13",
       "category": "radar"
+    },
+    {
+      "id": "ai-design-better-2026",
+      "title": "How I use (and don't use) AI to design better in 2026 \u2014 Practical AI Design Workflow",
+      "date": "2026-03-14",
+      "category": "hot"
+    },
+    {
+      "id": "design-system-4-hours-ai",
+      "title": "I Built My Entire Design System in 4 Hours With AI \u2014 Claude + Cursor + Figma Tutorial",
+      "date": "2026-03-14",
+      "category": "hot"
+    },
+    {
+      "id": "ai-storybook-assistant-github",
+      "title": "AI-Powered Storybook 9 Assistant \u2014 Component Generation & Testing Automation",
+      "date": "2026-03-14",
+      "category": "try"
+    },
+    {
+      "id": "ai-wireframe-comparison-2026",
+      "title": "AI Wireframe Generators Compared \u2014 Visily vs UX Pilot vs Uizard vs Figma Make",
+      "date": "2026-03-14",
+      "category": "tip"
+    },
+    {
+      "id": "figma-to-code-2026-workflows",
+      "title": "From Figma to Code \u2014 AI Design-to-Dev Workflows in 2026",
+      "date": "2026-03-14",
+      "category": "tip"
+    },
+    {
+      "id": "design-tokens-ai-generation",
+      "title": "Build Design Tokens & Figma Variables with AI \u2014 AI-First Token Workflow",
+      "date": "2026-03-14",
+      "category": "tip"
+    },
+    {
+      "id": "midjourney-vs-dalle-ui-design-2026",
+      "title": "Midjourney vs DALL-E 3 for UI Design \u2014 2026 Comprehensive Comparison",
+      "date": "2026-03-14",
+      "category": "tip"
     }
   ]
 }
