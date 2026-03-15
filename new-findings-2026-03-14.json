@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ai-design-better-2026",
+    "title": "How I use (and don't use) AI to design better in 2026 — Practical AI Design Workflow",
+    "url": "https://www.youtube.com/watch?v=2u6bH17NIQk", 
+    "date": "2026-03-14",
+    "category": "hot",
+    "description": "AlienacAI shares their current real-world AI design workflow for 2026, covering what works and what doesn't in practice. Demonstrates Figma Make integration and provides free AIUX Design Guide. Published 2 days ago, offering the latest perspective on AI-assisted design.",
+    "domain": "youtube.com",
+    "tags": ["ai-workflow", "figma-make", "practical", "2026-methods", "youtube"]
+  },
+  {
+    "id": "design-system-4-hours-ai",
+    "title": "I Built My Entire Design System in 4 Hours With AI — Claude + Cursor + Figma Tutorial", 
+    "url": "https://www.youtube.com/watch?v=nafNPuElCtY",
+    "date": "2026-03-14", 
+    "category": "hot",
+    "description": "Complete workflow tutorial showing how to build a production-ready design system from Figma to code in just 4 hours using AI. Demonstrates Claude + Cursor + Figma integration for rapid design system creation, potentially reducing traditional 2-week timelines by 95%.",
+    "domain": "youtube.com", 
+    "tags": ["design-systems", "claude", "cursor", "figma", "4-hours", "tutorial", "youtube"]
+  },
+  {
+    "id": "ai-storybook-assistant-github",
+    "title": "AI-Powered Storybook 9 Assistant — Component Generation & Testing Automation",
+    "url": "https://github.com/flight505/storybook-assistant", 
+    "date": "2026-03-14",
+    "category": "try",
+    "description": "Complete SOTA 2026 Storybook assistant with Vision AI design-to-code, natural language generation, AI-powered accessibility remediation, React Server Components, visual regression testing, and design token sync. Built specifically for Claude Code with automatic framework detection.",
+    "domain": "github.com",
+    "tags": ["storybook", "ai-assistant", "claude-code", "components", "testing", "accessibility"]
+  },
+  {
+    "id": "ai-wireframe-comparison-2026", 
+    "title": "AI Wireframe Generators Compared — Visily vs UX Pilot vs Uizard vs Figma Make",
+    "url": "https://blog.logrocket.com/ux-design/visilys-ai-wireframing-prototyping/",
+    "date": "2026-03-14",
+    "category": "tip", 
+    "description": "LogRocket's comprehensive January 2026 comparison testing four major AI wireframing tools. Key finding: Figma Make produces most consistent layouts with least alignment errors, while Uizard benefits from stronger manual controls. Visily performs best for quick early concepts.",
+    "domain": "blog.logrocket.com",
+    "tags": ["wireframing", "ai-tools", "comparison", "visily", "uizard", "figma-make", "ux-pilot"]
+  },
+  {
+    "id": "figma-to-code-2026-workflows",
+    "title": "From Figma to Code — AI Design-to-Dev Workflows in 2026", 
+    "url": "https://www.sixtythirtyten.co/blog/from-figma-to-code-ai-design-to-dev-workflows-in-2026",
+    "date": "2026-03-14",
+    "category": "tip",
+    "description": "February 2026 analysis of Locofy, Anima, and Builder.io workflows with specific setup recommendations. For Builder.io: run CLI against existing codebase first. For Locofy: enable 'Convert Figma Styles and Variables' toggle. For Anima: activate Figma Dev Mode integration.",
+    "domain": "sixtythirtyten.co", 
+    "tags": ["figma-to-code", "locofy", "anima", "builder-io", "workflow", "setup-tips"]
+  },
+  {
+    "id": "design-tokens-ai-generation",
+    "title": "Build Design Tokens & Figma Variables with AI — AI-First Token Workflow",
+    "url": "https://www.youtube.com/watch?v=rYzstFEY0t8",
+    "date": "2026-03-14", 
+    "category": "tip",
+    "description": "January 2026 tutorial demonstrating AI-first workflow for generating design systems and Figma variables. Shows how to use AI to systematically create design tokens rather than manual creation, revolutionizing traditional design system setup processes.",
+    "domain": "youtube.com",
+    "tags": ["design-tokens", "figma-variables", "ai-workflow", "design-systems", "automation", "youtube"]
+  },
+  {
+    "id": "midjourney-vs-dalle-ui-design-2026",
+    "title": "Midjourney vs DALL-E 3 for UI Design — 2026 Comprehensive Comparison",
+    "url": "https://ai-coding-flow.com/blog/midjourney-vs-dall-e-3-2026/", 
+    "date": "2026-03-14",
+    "category": "tip",
+    "description": "February 2026 analysis specifically for UI design use cases. Key finding: DALL-E 3's text rendering capabilities make it better for creating mockups with placeholder text, while Midjourney's superior visual quality excels for icons and background images. Important for design tool selection.",
+    "domain": "ai-coding-flow.com",
+    "tags": ["midjourney", "dall-e-3", "ui-design", "comparison", "mockups", "text-rendering"]
+  }
+]

@@ -360,29 +360,7 @@
       filter: drop-shadow(0 0 6px var(--accent));
     }
 
-    /* ── Collapsible Day Sections ── */
-    .day-header {
-      cursor: pointer;
-      user-select: none;
-    }
-    .day-header .chevron {
-      font-size: 0.8rem;
-      color: var(--text-tertiary);
-      transition: transform 0.3s ease;
-      flex-shrink: 0;
-    }
-    .day-header .chevron.collapsed { transform: rotate(0deg); }
-    .day-header .chevron.expanded { transform: rotate(90deg); }
 
-    .day-content {
-      overflow: hidden;
-      transition: max-height 0.4s ease, opacity 0.3s ease;
-      opacity: 1;
-    }
-    .day-content.collapsed {
-      max-height: 0 !important;
-      opacity: 0;
-    }
 
     @media (max-width: 640px) {
       header { padding: 3rem 0 2rem; }
@@ -5291,7 +5269,6 @@
 (function() {
   // === BOOKMARKING ===
   const STORAGE_KEY = 'scout-bookmarks';
-  const COLLAPSE_KEY = 'scout-collapse';
   let bookmarks = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
   let filterMode = 'all';
 
@@ -5362,63 +5339,7 @@
     });
   }
 
-  // === COLLAPSIBLE DAY SECTIONS ===
-  let collapseState = JSON.parse(localStorage.getItem(COLLAPSE_KEY) || '{}');
-  const sections = document.querySelectorAll('.day-section');
 
-  sections.forEach(function(sec, i) {
-    const header = sec.querySelector('.day-header');
-    const dateText = header.querySelector('h2').textContent.trim();
-
-    // Wrap everything after day-header in a content div
-    const contentDiv = document.createElement('div');
-    contentDiv.className = 'day-content';
-    const children = Array.from(sec.children).filter(c => c !== header);
-    children.forEach(c => contentDiv.appendChild(c));
-    sec.appendChild(contentDiv);
-
-    // Add chevron
-    const chevron = document.createElement('span');
-    chevron.className = 'chevron';
-    header.insertBefore(chevron, header.firstChild);
-
-    // Determine initial state: use stored or default (first expanded, rest collapsed)
-    let isCollapsed;
-    if (collapseState[dateText] !== undefined) {
-      isCollapsed = collapseState[dateText];
-    } else {
-      isCollapsed = i > 0;
-    }
-
-    function setState(collapsed, animate) {
-      if (collapsed) {
-        if (animate) {
-          contentDiv.style.maxHeight = contentDiv.scrollHeight + 'px';
-          requestAnimationFrame(() => { contentDiv.classList.add('collapsed'); });
-        } else {
-          contentDiv.classList.add('collapsed');
-        }
-        chevron.textContent = '▸';
-        chevron.className = 'chevron collapsed';
-      } else {
-        contentDiv.classList.remove('collapsed');
-        contentDiv.style.maxHeight = contentDiv.scrollHeight + 'px';
-        chevron.textContent = '▸';
-        chevron.className = 'chevron expanded';
-        if (!animate) contentDiv.style.maxHeight = 'none';
-        else setTimeout(() => { contentDiv.style.maxHeight = 'none'; }, 400);
-      }
-    }
-
-    setState(isCollapsed, false);
-
-    header.addEventListener('click', function() {
-      const nowCollapsed = !contentDiv.classList.contains('collapsed');
-      collapseState[dateText] = nowCollapsed;
-      localStorage.setItem(COLLAPSE_KEY, JSON.stringify(collapseState));
-      setState(nowCollapsed, true);
-    });
-  });
 })();
 </script>
 </body>
