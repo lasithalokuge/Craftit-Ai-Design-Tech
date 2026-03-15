@@ -5525,12 +5525,12 @@
     chevron.className = 'chevron';
     header.insertBefore(chevron, header.firstChild);
 
-    // Default to expanded (show all content)
+    // Default: only the first (latest) section expanded, rest collapsed
     let isCollapsed;
     if (collapseState[dateText] !== undefined) {
       isCollapsed = collapseState[dateText];
     } else {
-      isCollapsed = false; // All sections expanded by default
+      isCollapsed = i > 0; // Only first section expanded by default
     }
 
     function setState(collapsed, animate) {
