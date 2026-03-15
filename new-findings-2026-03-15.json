@@ -1,0 +1,122 @@
+[
+  {
+    "id": "figma-weave-acquisition",
+    "title": "Figma Acquires Weavy — AI Generative Design Platform Integration",
+    "url": "https://www.figma.com/blog/config-speakers-looking-ahead-2026/",
+    "date": "2026-03-15",
+    "category": "hot",
+    "description": "Figma has acquired Weavy, a platform that brings generative AI and professional editing tools into the open canvas. Announced at Config 2026, this acquisition signals Figma's commitment to native AI-powered design generation capabilities, potentially revolutionizing how designers create within Figma itself.",
+    "domain": "figma.com",
+    "tags": ["figma", "acquisition", "ai-generation", "weavy", "config-2026"]
+  },
+  {
+    "id": "shadcn-cli-v4-ai-skills",
+    "title": "shadcn/ui CLI v4 with AI Agent Skills — Agentic Era Development Tools",
+    "url": "https://dev.to/codedthemes/shadcnui-march-2026-update-cli-v4-ai-agent-skills-and-design-system-presets-1gp1",
+    "date": "2026-03-15",
+    "category": "try",
+    "description": "Major shadcn/ui update introduces CLI v4 with safe inspection tools (dry-run, diff, view), shadcn/skills for coding agent context, and Design System Presets. The skills feature provides AI agents like v0, Cursor, and Claude with project-specific component patterns and registry knowledge, addressing the tribal knowledge gap in AI-assisted development.",
+    "domain": "dev.to",
+    "tags": ["shadcn", "cli-v4", "ai-skills", "coding-agents", "design-systems", "presets"]
+  },
+  {
+    "id": "gpt-5-4-computer-use-mode",
+    "title": "OpenAI GPT-5.4 with Computer Use Mode — Native Interface Control for Design",
+    "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for",
+    "date": "2026-03-15",
+    "category": "hot",
+    "description": "GPT-5.4 launched March 5th with native computer use capabilities, allowing direct interaction with software interfaces including design tools. This breakthrough enables AI to operate spreadsheets, code editors, and potentially design applications directly, opening new possibilities for AI-assisted design workflows beyond text generation.",
+    "domain": "venturebeat.com",
+    "tags": ["gpt-5-4", "computer-use", "openai", "interface-control", "ai-automation"]
+  },
+  {
+    "id": "design-systems-conference-march-2026",
+    "title": "Into Design Systems Conference March 2026 — AI Design Systems & MCP Focus",
+    "url": "https://www.intodesignsystems.com/agenda",
+    "date": "2026-03-15",
+    "category": "tip",
+    "description": "March 19-20 online conference featuring 14+ sessions specifically on AI Design Systems, Vibe Coding, and MCP integrations. Speakers from WhatsApp, Miro, Indeed, Adobe, GitHub, and Figma. This represents the first major design systems conference with dedicated AI automation track, indicating industry shift toward AI-integrated design systems.",
+    "domain": "intodesignsystems.com",
+    "tags": ["design-systems", "conference", "ai-integration", "mcp", "vibe-coding", "march-2026"]
+  },
+  {
+    "id": "codeconductor-figma-enterprise",
+    "title": "CodeConductor.ai — Enterprise Figma Make Alternative with Full AI App Development",
+    "url": "https://codeconductor.ai/blog/figma-make-alterantive/",
+    "date": "2026-03-15",
+    "category": "try",
+    "description": "New enterprise-focused alternative to Figma Make that extends beyond UI generation to full AI-powered application development. Specifically targets teams needing more than design automation, offering secure enterprise AI app building capabilities. Positions itself as the next step beyond Figma Make's UI-only generation.",
+    "domain": "codeconductor.ai",
+    "tags": ["codeconductor", "figma-make-alternative", "enterprise", "ai-apps", "full-stack"]
+  },
+  {
+    "id": "claude-code-design-capabilities-2026",
+    "title": "Claude Code Design Capabilities — Paper Integration & Visual Design Workflow",
+    "url": "https://www.youtube.com/watch?v=KAX0cWk1fJE",
+    "date": "2026-03-15",
+    "category": "hot",
+    "description": "Claude Code now integrates with Paper design tool for complete design workflow automation. Demonstrates ability to handle entire design process from concept to implementation without Figma, potentially disrupting traditional design handoff workflows. Shows AI moving beyond coding assistance into visual design creation.",
+    "domain": "youtube.com",
+    "tags": ["claude-code", "paper-design", "design-automation", "visual-workflow", "figma-alternative", "youtube"]
+  },
+  {
+    "id": "ai-image-models-ui-design-2026",
+    "title": "AI Image Models for UI Design — GPT Image 1.5 vs Midjourney v7 vs Firefly 3",
+    "url": "https://www.gradually.ai/en/ai-image-models/",
+    "date": "2026-03-15", 
+    "category": "tip",
+    "description": "Comprehensive 2026 comparison of AI image generation models for UI design. Key findings: GPT Image 1.5 (DALL-E successor) best for prompt precision, Midjourney v7 for aesthetics, Adobe Firefly Image 3 for professional workflows with legal safety. Critical for choosing the right tool for UI mockups and design inspiration.",
+    "domain": "gradually.ai",
+    "tags": ["ai-image-generation", "ui-design", "gpt-image-1-5", "midjourney-v7", "firefly-3", "comparison"]
+  },
+  {
+    "id": "figma-mcp-github-expansion",
+    "title": "Figma Expands MCP with GitHub Copilot, Cursor, Warp Integration",
+    "url": "https://cxotoday.com/apps/figma-expands-code-to-canvas-capabilities-with-new-ai-powered-integrations/",
+    "date": "2026-03-15",
+    "category": "try", 
+    "description": "Figma added GitHub Copilot, Cursor, Warp, Factor, Augment Code, and Fireblender as new MCP Server ecosystem partners. This integration enables teams to convert AI-generated UI code back to Figma designs, creating true bidirectional design-code sync. Major step toward closing the design-development feedback loop.",
+    "domain": "cxotoday.com",
+    "tags": ["figma-mcp", "github-copilot", "cursor", "warp", "code-to-canvas", "bidirectional-sync"]
+  },
+  {
+    "id": "ui-frameworks-design-alignment-2026", 
+    "title": "Framework-Specific UI Kits Winning — Design-Code Alignment Trend",
+    "url": "https://muz.li/blog/best-figma-ui-kits-and-design-systems-for-2026/",
+    "date": "2026-03-15",
+    "category": "tip",
+    "description": "Major shift in 2026: UI kits designed to match specific code frameworks (shadcn, Tailwind, Chakra, Ant Design) are becoming essential. Generic UI kits now cost more time than they save. This trend reflects the growing importance of design-code consistency for AI-assisted development workflows.",
+    "domain": "muz.li",
+    "tags": ["ui-kits", "framework-specific", "shadcn", "tailwind", "design-code-alignment", "figma"]
+  },
+  {
+    "id": "no-code-ai-platforms-2026",
+    "title": "No-Code AI Platforms 2026 — Retool, FlutterFlow, WeWeb, Bubble Evolution",
+    "url": "https://www.analyticsinsight.net/ampstories/tech-news/best-no-code-low-code-platforms-developers-love-in-2026",
+    "date": "2026-03-15",
+    "category": "tip",
+    "description": "Updated analysis of developer-loved no-code/low-code platforms in 2026, highlighting AI-powered capabilities in Retool, FlutterFlow, WeWeb, and Bubble. These platforms increasingly integrate AI assistance for faster app development, directly competing with traditional design-to-code workflows.",
+    "domain": "analyticsinsight.net", 
+    "tags": ["no-code", "retool", "flutterflow", "webflow", "bubble", "ai-powered", "2026-platforms"]
+  },
+  {
+    "id": "claude-code-mcp-figma-workflow",
+    "title": "Design ↔ Code Sync with Figma MCP Server — Generate Design Layers from VS Code",
+    "url": "https://www.youtube.com/watch?v=3_6iAFuMvy0",
+    "date": "2026-03-15", 
+    "category": "try",
+    "description": "Tutorial demonstrating new Figma MCP Server integration that allows developers to generate Figma design layers directly from VS Code. Enables seamless collaboration where code changes can automatically update design mockups, eliminating manual design-code sync overhead in AI-assisted workflows.",
+    "domain": "youtube.com",
+    "tags": ["figma-mcp", "vs-code", "design-sync", "claude-code", "mcp-server", "youtube"]
+  },
+  {
+    "id": "figma-v0-anima-comparison-2026",
+    "title": "Figma to Code Comparison — v0, Anima, Google Studio, AI Tool Testing",
+    "url": "https://www.youtube.com/watch?v=7YpYYC7dnE8",
+    "date": "2026-03-15",
+    "category": "tip", 
+    "description": "Recent YouTube comparison testing 4 trending AI tools that convert Figma designs to real applications: v0, Anima AI, Google Studio, and others. Provides practical insights into which tools produce the best code quality and most accurate design implementation for 2026 workflows.",
+    "domain": "youtube.com",
+    "tags": ["figma-to-code", "v0", "anima", "google-studio", "comparison", "ai-tools", "youtube"]
+  }
+]
