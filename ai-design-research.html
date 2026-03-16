@@ -384,6 +384,13 @@
       opacity: 0;
     }
 
+    /* Force collapsed appearance for sections March 12th and below */
+    .day-section:nth-child(n+5) .summary,
+    .day-section:nth-child(n+5) .category,
+    .day-section:nth-child(n+5) .finding {
+      display: none;
+    }
+
 
 
     @media (max-width: 640px) {
