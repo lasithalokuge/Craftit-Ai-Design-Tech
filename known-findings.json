@@ -2210,6 +2210,112 @@
       "title": "Figma to Code Comparison — v0, Anima, Google Studio, AI Tool Testing",
       "date": "2026-03-15",
       "category": "tip"
+    },
+    {
+      "id": "magic-animator-lottielab-ai",
+      "date": "2026-03-16",
+      "title": "Magic Animator by LottieLab — AI Animation Generator for Figma Designs",
+      "url": "https://www.figma.com/community/plugin/1520062874404933233/magic-animator-ai-animation-generator-for-figma",
+      "source_url": "https://www.figma.com/community/plugin/1520062874404933233/magic-animator-ai-animation-generator-for-figma",
+      "description": "First AI tool that generates editable animations from Figma designs. One-click generates 4 unique animation variations. Export as MP4 (up to 4K), GIF, Lottie. Edit AI-generated keyframes in motion editor. Launched January 2026.",
+      "verdict": "Try it — unique animation automation for Figma. Could replace manual motion work for marketing assets and prototypes.",
+      "category": "try",
+      "tags": [
+        "animation",
+        "figma-plugin", 
+        "ai-generation",
+        "lottielab",
+        "motion-design"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "uxpilot-ai-figma-integration",
+      "date": "2026-03-16", 
+      "title": "UXPilot AI — Design Audit & Heatmap Analysis Figma Plugin",
+      "url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers/",
+      "source_url": "https://www.figma.com/resource-library/ai-tools-for-ux-designers/",
+      "description": "AI assistant for UX research and validation. Generate user interview questions, gather requirements, get usability feedback. Provides predictive heatmaps and automated UX reviews to flag friction points. Direct Figma plugin integration.",
+      "verdict": "Try it — fills gap in design validation workflow. Automated UX audits could catch issues early in design process.",
+      "category": "try",
+      "tags": [
+        "ux-research",
+        "figma-plugin",
+        "heatmaps",
+        "design-audit", 
+        "validation"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "figma-make-150-credits-daily",
+      "date": "2026-03-16",
+      "title": "Figma Make Free Tier — 150 AI Credits Daily for Prompt-to-App Generation",
+      "url": "https://www.figma.com/ai/",
+      "source_url": "https://www.figma.com/ai/",  
+      "description": "Figma Make now offers 150 free AI credits per day (500/month) for prompt-to-interactive-app generation. Uses team design libraries for context-aware designs. Full MCP integration with VS Code, Cursor, Windsurf, Claude Code.",
+      "verdict": "Try it — generous free tier makes exploration viable. MCP integration creates proper design-to-code pipeline.",
+      "category": "try",
+      "tags": [
+        "figma-make",
+        "free-tier",
+        "mcp-integration",
+        "prompt-to-app"
+      ],
+      "is_youtube": false
+    },
+    {
+      "id": "ai-design-workflow-youtube-2026",
+      "date": "2026-03-16",
+      "title": "YouTube: AI Design Workflow Tutorials — Real 2026 Production Use Cases",
+      "url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
+      "source_url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
+      "description": "Collection of practical AI design workflow videos: AI + Design Systems (Jan 2026), Figma MCP + Cursor workflows, design system automation, Figma audit with AI. Shows real production workflows vs just demos.",
+      "verdict": "Watch these — practical workflows from actual teams. Shows where AI actually helps vs hype.",
+      "category": "tip",
+      "tags": [
+        "workflow-tutorials",
+        "youtube",
+        "design-systems",
+        "figma-mcp",
+        "production"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "figma-plugin-builder-ai-2026",
+      "date": "2026-03-16",
+      "title": "Figma Plugin Builder — Build Custom Figma Plugins with AI",
+      "url": "https://www.youtube.com/watch?v=A0lCwgRtAWU",
+      "source_url": "https://www.youtube.com/watch?v=A0lCwgRtAWU",
+      "description": "New capability to build custom Figma plugins using AI. Turn design problems into real plugin solutions. Upload directly to Figma Community. Democratizes plugin development for designers.",
+      "verdict": "Try it — could solve custom workflow problems specific to your team. Low barrier to plugin creation.",
+      "category": "try", 
+      "tags": [
+        "figma-plugins",
+        "ai-development",
+        "custom-tools",
+        "workflow-automation"
+      ],
+      "is_youtube": true
+    },
+    {
+      "id": "design-system-4-hours-ai-claude",
+      "date": "2026-03-16",
+      "title": "YouTube: Complete Design System Built in 4 Hours with AI (Claude + Cursor + Figma)",
+      "url": "https://www.youtube.com/watch?v=nafNPuElCtY", 
+      "source_url": "https://www.youtube.com/watch?v=nafNPuElCtY",
+      "description": "End-to-end tutorial: Figma design system to production code in 4 hours using Claude + Cursor workflow. Shows actual time savings vs traditional 2-week design system creation process.",
+      "verdict": "Watch this — proves design system speed gains are real. Specific workflow to replicate.",
+      "category": "tip",
+      "tags": [
+        "design-systems",
+        "claude-cursor",
+        "speed-workflow", 
+        "tutorial",
+        "time-savings"
+      ],
+      "is_youtube": true
     }
   ]
 }
