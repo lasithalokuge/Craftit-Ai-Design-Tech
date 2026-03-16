@@ -384,11 +384,11 @@
       opacity: 0;
     }
 
-    /* Force collapsed appearance for sections March 12th and below */
-    .day-section:nth-child(n+5) .summary,
-    .day-section:nth-child(n+5) .category,
-    .day-section:nth-child(n+5) .finding {
-      display: none;
+    /* Force collapsed appearance for older sections */
+    .auto-collapsed .summary,
+    .auto-collapsed .category,
+    .auto-collapsed .finding {
+      display: none !important;
     }
 
 
@@ -6210,6 +6210,29 @@
       localStorage.setItem(COLLAPSE_KEY, JSON.stringify(collapseState));
       setState(nowCollapsed, true);
     });
+  });
+
+  // === AUTO-COLLAPSE OLDER SECTIONS ===
+  // Add auto-collapsed class to sections March 12 and older
+  const allSections = document.querySelectorAll('.day-section');
+  allSections.forEach(function(sec) {
+    const h2 = sec.querySelector('h2');
+    if (!h2) return;
+    
+    const dateText = h2.textContent.trim();
+    // Extract date parts for comparison
+    const match = dateText.match(/(\w+)\s+(\d+),\s+(\d+)/);
+    if (!match) return;
+    
+    const [, month, day, year] = match;
+    const dayNum = parseInt(day);
+    
+    // Collapse sections March 12 and older (including February, etc.)
+    if (month === 'March' && dayNum <= 12) {
+      sec.classList.add('auto-collapsed');
+    } else if (month === 'February') {
+      sec.classList.add('auto-collapsed');
+    }
   });
 
 })();
