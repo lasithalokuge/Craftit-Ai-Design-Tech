@@ -1,0 +1,146 @@
+[
+  {
+    "id": "moonchild-ai-design-system-generator",
+    "date": "2026-03-17",
+    "title": "Moonchild AI — Design System Generator for Production-Ready UIs",
+    "url": "https://moonchild.ai/",
+    "source_url": "https://moonchild.ai/",
+    "description": "AI chat tool that generates design systems, user flows, and multi-screen designs from product briefs. Creates design-system-first layouts that maintain consistency across flows. Offers AI critique evaluating designs against product goals. Unlimited prompts, deep Figma integration.",
+    "verdict": "Try it — solves design system consistency problems that plague other AI design tools. Multiple reviews confirm it's more intentional than competitors.",
+    "category": "hot",
+    "tags": [
+      "design-systems",
+      "ai-generation", 
+      "product-design",
+      "figma-integration",
+      "ui-consistency"
+    ],
+    "is_youtube": false
+  },
+  {
+    "id": "seedance-2-0-bytedance-ai-video",
+    "date": "2026-03-17",
+    "title": "Seedance 2.0 — ByteDance's Cinematic AI Video Generator with Native Audio",
+    "url": "https://seedance2.ai/",
+    "source_url": "https://seedance2.ai/",
+    "description": "ByteDance's multimodal AI video generator supporting text, image, audio, and video inputs. Creates 4-15 second clips in 1080p with automatic dialogue, sound effects, and ambient soundscapes. Global launch paused March 15, 2026 - currently China-only.",
+    "verdict": "Watch it — impressive technology but global availability uncertain. Could revolutionize video prototyping if/when launched internationally.",
+    "category": "radar",
+    "tags": [
+      "ai-video",
+      "multimodal",
+      "bytedance",
+      "audio-generation",
+      "video-prototyping"
+    ],
+    "is_youtube": false
+  },
+  {
+    "id": "deerflow-2-0-superagent-harness",
+    "date": "2026-03-17", 
+    "title": "DeerFlow 2.0 — ByteDance's Open-Source SuperAgent Harness",
+    "url": "https://github.com/bytedance/deer-flow",
+    "source_url": "https://github.com/bytedance/deer-flow",
+    "description": "Open-source SuperAgent platform that orchestrates sub-agents, memory, and sandboxes for complex tasks. Rebuilt from scratch on LangGraph 1.0. Can build full-stack web apps, generate slide decks, automate data pipelines. 20k+ GitHub stars.",
+    "verdict": "Try it — powerful automation platform for design-development workflow. Could handle complex design system generation and documentation tasks.",
+    "category": "try", 
+    "tags": [
+      "automation",
+      "open-source",
+      "superagent",
+      "workflow-automation",
+      "bytedance"
+    ],
+    "is_youtube": false
+  },
+  {
+    "id": "google-pomelli-brand-content-generator",
+    "date": "2026-03-17",
+    "title": "Google Pomelli — AI Marketing Content Generator with Brand DNA",
+    "url": "https://pomelli.me/",
+    "source_url": "https://pomelli.me/",
+    "description": "Google Labs experiment that analyzes websites to learn brand identity, then generates on-brand social media campaigns, Instagram posts, ad creatives. Pomelli Animate launched January 2026 powered by Veo 3.1. Free, no login required.",
+    "verdict": "Try it — excellent for rapid brand-consistent marketing assets. Could speed up social media design workflow significantly.",
+    "category": "hot",
+    "tags": [
+      "brand-identity",
+      "social-media", 
+      "google-labs",
+      "marketing-automation",
+      "brand-consistency"
+    ],
+    "is_youtube": false
+  },
+  {
+    "id": "figma-vectorize-ai-image-tool",
+    "date": "2026-03-17",
+    "title": "Figma Vectorize — AI Tool to Convert Images to Editable Vectors",
+    "url": "https://www.figma.com/blog/introducing-vectorize/",
+    "source_url": "https://www.figma.com/blog/introducing-vectorize/",
+    "description": "New Figma AI tool that converts raster images (PNG, JPG, WebP) into editable vector paths directly on canvas. Turns hand-drawn sketches, old PNG icons, textures into scalable vectors. Launched February 2026 as part of Figma's precision image editing suite.",
+    "verdict": "Try it — eliminates manual tracing work. Perfect for converting design references and hand sketches into production-ready vectors.",
+    "category": "hot",
+    "tags": [
+      "figma",
+      "vectorization", 
+      "ai-image-editing",
+      "vector-graphics",
+      "workflow-efficiency"
+    ],
+    "is_youtube": false
+  },
+  {
+    "id": "ai-design-systems-conference-2026",
+    "date": "2026-03-17",
+    "title": "AI Design Systems Conference 2026 — March 19-20 Online Event",
+    "url": "https://www.intodesignsystems.com",
+    "source_url": "https://www.intodesignsystems.com",
+    "description": "Two-day online conference March 19-20, 2026 focused on AI tools for design systems. Covers Cursor IDE, Claude Code, Figma MCP, vibe coding workflows, and design system automation. Teaches practical integration of AI into design-development handoff.",
+    "verdict": "Try it — timely event covering exactly our workflow challenges. Could provide actionable strategies for AI-enhanced design systems.",
+    "category": "tip",
+    "tags": [
+      "design-systems",
+      "conference",
+      "ai-workflow",
+      "design-development",
+      "education"
+    ],
+    "is_youtube": false
+  },
+  {
+    "id": "ai-design-workflow-2026-youtube",
+    "date": "2026-03-17",
+    "title": "AI + Design Systems in 2026: The Workflow I Actually Use",
+    "url": "https://www.youtube.com/watch?v=XfezMs8B-O8",
+    "source_url": "https://www.youtube.com/watch?v=XfezMs8B-O8", 
+    "description": "YouTube video showing real-world AI integration with design systems in 2026. Focuses on practical applications rather than AI replacing design work. Published January 26, 2026. Demonstrates actual production workflows with specific tools and processes.",
+    "verdict": "Try it — practical insights from someone actually using AI in production design systems work.",
+    "category": "tip",
+    "tags": [
+      "design-systems",
+      "ai-workflow",
+      "youtube",
+      "practical-guide",
+      "production-workflow"
+    ],
+    "is_youtube": true
+  },
+  {
+    "id": "figma-make-embeds-updates-2026",
+    "date": "2026-03-17",
+    "title": "Major Figma AI Updates! — Figma Make Embeds, Select to Edit & More",
+    "url": "https://www.youtube.com/watch?v=CZGnGAbzjt8",
+    "source_url": "https://www.youtube.com/watch?v=CZGnGAbzjt8",
+    "description": "YouTube review of Figma's latest AI updates including Figma Make embeds and enhanced select-to-edit functionality. Published January 26, 2026. Compares new features to competitors like v0 and other design-to-code tools.",
+    "verdict": "Try it — covers recent Figma AI improvements that could impact our design-to-code pipeline.",
+    "category": "update",
+    "tags": [
+      "figma",
+      "ai-updates",
+      "youtube", 
+      "design-to-code",
+      "figma-make"
+    ],
+    "is_youtube": true
+  }
+]
