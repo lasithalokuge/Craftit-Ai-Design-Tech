@@ -1,0 +1,152 @@
+[
+  {
+    "id": "gamma-imagine-2026-03-17",
+    "title": "Gamma Imagine: AI-Native Design Tool Launch",
+    "url": "https://gamma.app",
+    "description": "Gamma launched Gamma Imagine on March 17, an AI-native visual creation tool for logos, infographics, diagrams, and social posts. Automatically applies brand colors and visual identity, with natural language refinement and multiple creative directions per asset.",
+    "verdict": "Try it",
+    "tags": ["ai-native", "branding", "visual-assets"],
+    "date": "2026-03-17",
+    "source": "businesswire"
+  },
+  {
+    "id": "midjourney-v8-alpha-2026-03-18",
+    "title": "Midjourney V8 Alpha: 5x Faster Generation with 2K Native Resolution",
+    "url": "https://updates.midjourney.com/v8-alpha/",
+    "description": "Midjourney V8 Alpha launched March 18 with 5x faster image generation, improved style references (srefs), native 2K resolution with --hd mode, better text rendering, and backwards compatibility with V7 personalization profiles.",
+    "verdict": "Try it",
+    "tags": ["image-generation", "speed", "resolution"],
+    "date": "2026-03-18",
+    "source": "midjourney-official"
+  },
+  {
+    "id": "google-antigravity-2026-early",
+    "title": "Google Antigravity: Free Agent-First IDE with Claude Opus 4.6",
+    "url": "https://alpha.midjourney.com",
+    "description": "Google launched Antigravity, a free agent-first IDE with Claude Opus 4.6 and Gemini 3 Pro built in. Features 5 parallel agents, 76.2% SWE-bench score, and multi-step autonomous task execution. Early 2026 release targeting developer adoption.",
+    "verdict": "Try it",
+    "tags": ["ai-ide", "coding", "free"],
+    "date": "2026-03-early",
+    "source": "openaitoolshub"
+  },
+  {
+    "id": "adobe-firefly-ai-assistant-photoshop-2026-03",
+    "title": "Adobe Photoshop AI Assistant (Public Beta) + Firefly Editor Updates",
+    "url": "https://helpx.adobe.com/firefly/web/whats-new/",
+    "description": "Adobe released AI Assistant for Photoshop in public beta, allowing photo editing through natural language descriptions. New Firefly Image Editor tools include background removal and element refinement. Temporary unlimited generations on AI image models up to 2K resolution.",
+    "verdict": "Try it",
+    "tags": ["photoshop", "conversational-ai", "image-editing"],
+    "date": "2026-03-11",
+    "source": "adobe-help"
+  },
+  {
+    "id": "canva-ai-studio-affinity-2026-03",
+    "title": "Canva AI Studio Integration with Affinity + Real-Time Usage Tracker",
+    "url": "https://releasebot.io/updates/canva",
+    "description": "Canva AI tools now included directly inside Affinity through new Canva AI Studio, featuring Generative Fill, Expand & Edit, and Remove Background. Added real-time usage tracker in app from March 16 to monitor monthly AI allowance.",
+    "verdict": "Try it",
+    "tags": ["integration", "usage-tracking", "affinity"],
+    "date": "2026-03-16",
+    "source": "releasebot"
+  },
+  {
+    "id": "openai-gpt-54-mini-nano-2026-03-17",
+    "title": "OpenAI GPT-5.4 Mini and Nano: Optimized for Coding and Speed",
+    "url": "https://9to5google.com/2026/03/17/openai-gpt-5-4-mini-nano-models/",
+    "description": "OpenAI launched GPT-5.4 mini and nano models on March 17, 2026. Mini is 2x faster than GPT-5 mini for coding, reasoning and tool use. Designed for multi-agent workflows where larger models handle planning while delegating tasks to smaller subagents.",
+    "verdict": "Try it",
+    "tags": ["coding", "speed", "multi-agent"],
+    "date": "2026-03-17",
+    "source": "9to5google"
+  },
+  {
+    "id": "flowstep-ai-lovable-alternatives-2026-03",
+    "title": "Flowstep: Design-First Alternative to Code-First AI Builders",
+    "url": "https://flowstep.ai/blog/lovable-alternatives/",
+    "description": "Flowstep emerges as design-first AI prototyping tool, generating complete UI layouts on infinite canvas with direct Figma copy-paste and clean React/TypeScript/Tailwind export. Positions as pre-coding layer to avoid burning credits in code-first tools.",
+    "verdict": "Try it",
+    "tags": ["design-first", "prototyping", "figma-integration"],
+    "date": "2026-03-13",
+    "source": "flowstep"
+  },
+  {
+    "id": "claude-code-figma-mcp-bidirectional-2026-03",
+    "title": "Claude Code ↔ Figma Bidirectional Workflow: Code to Canvas and Back",
+    "url": "https://www.youtube.com/watch?v=C0fNUdjQxeY",
+    "description": "New Figma MCP enables bidirectional workflow between Claude Code and Figma. Push UI designs from Claude Code back to Figma for canvas exploration, then send design updates back to code. Official Figma video published 6 days ago.",
+    "verdict": "Try it",
+    "tags": ["figma-mcp", "bidirectional", "claude-code"],
+    "date": "2026-03-12",
+    "source": "figma-youtube"
+  },
+  {
+    "id": "claude-code-paper-ai-design-2026-03",
+    "title": "Claude Code Can Design Now: Paper AI Integration",
+    "url": "https://www.youtube.com/watch?v=KAX0cWk1fJE",
+    "description": "Claude Code connected to Paper (AI agent native design tool) via MCP, enabling full design work without Figma. Video demonstrates going from blank canvas to complete design entirely through Claude Code, published 1 week ago.",
+    "verdict": "Try it",
+    "tags": ["design-automation", "paper-ai", "no-figma"],
+    "date": "2026-03-11",
+    "source": "youtube"
+  },
+  {
+    "id": "figma-ai-vectorize-2026-03",
+    "title": "Figma AI Vectorize Feature: Images to Vectors",
+    "url": "https://www.youtube.com/watch?v=jPRzkAvejOo",
+    "description": "Figma's new AI Vectorize feature converts any image into vectors, potentially eliminating need for pen tool. Demonstrated in 'How to Turn ANY Image into a Vector in Figma (AI Update 2026)' video from 3 weeks ago.",
+    "verdict": "Try it",
+    "tags": ["vectorize", "pen-tool", "image-conversion"],
+    "date": "2026-02-26",
+    "source": "youtube"
+  },
+  {
+    "id": "figma-make-ai-code-export-2026-03",
+    "title": "Figma Make AI: Code Export for HTML/CSS Generation",
+    "url": "https://www.youtube.com/watch?v=-GzxuAOjEwI",
+    "description": "Updated guide for exporting code from Figma Make AI, showing HTML/CSS generation capabilities. 'How to Export Code from Figma Make AI [NEW 2026 Guide]' published 1 week ago with latest workflow.",
+    "verdict": "Try it",
+    "tags": ["code-export", "figma-make", "html-css"],
+    "date": "2026-03-11",
+    "source": "youtube"
+  },
+  {
+    "id": "lovable-alternatives-comparison-2026-03",
+    "title": "8 Best Lovable Alternatives: Design-First vs Code-First Tools",
+    "url": "https://flowstep.ai/blog/lovable-alternatives/",
+    "description": "Comprehensive comparison of Lovable alternatives including Flowstep (design-first), Base44 (all-in-one), V0 by Vercel (React/Next.js), Bolt.new (multi-framework), and Google Stitch (free). Addresses vibe coding trap of skipping design validation.",
+    "verdict": "Watch it",
+    "tags": ["comparison", "vibe-coding", "alternatives"],
+    "date": "2026-03-13",
+    "source": "flowstep"
+  },
+  {
+    "id": "framer-five-tier-pricing-2026-03",
+    "title": "Framer Pricing Restructure: New Five-Tier System",
+    "url": "https://brixtemplates.com/blog/framer-pricing-plans",
+    "description": "Framer updated to five-tier pricing structure (Free, Basic, Pro, Scale, Enterprise) with complete rewrite from previous Personal/Business categories. March 16 update removes discontinued Mini/Launch plans.",
+    "verdict": "Watch it",
+    "tags": ["pricing", "tiers", "restructure"],
+    "date": "2026-03-16",
+    "source": "brix-templates"
+  },
+  {
+    "id": "ai-design-workflow-ux-ui-2026-03",
+    "title": "The Ultimate AI Design Workflow for UI/UX with Claude Code",
+    "url": "https://www.youtube.com/watch?v=GcNwDqqoafo",
+    "description": "Full AI-powered UX design workflow demonstration using Claude Code, showing process from rough idea to fully deployed web app without traditional design tools. Published 3 weeks ago.",
+    "verdict": "Try it",
+    "tags": ["workflow", "ux", "claude-code"],
+    "date": "2026-02-26",
+    "source": "youtube"
+  },
+  {
+    "id": "vibe-coding-trend-billions-raised-2026-03",
+    "title": "Vibe Coding Boom: Startups Raising Billions for No-Code AI",
+    "url": "https://www.businessinsider.com/startups-raising-billions-vibe-coding-boom-cursor-lovable-replit-emergent-2026-3",
+    "description": "Business Insider reports on vibe coding boom with startups like Cursor, Lovable, Replit, and Emergent raising billions. Called 'greatest unlock for non-techies' competing with OpenAI, Anthropic, and Microsoft in AI-powered coding tools.",
+    "verdict": "Watch it",
+    "tags": ["investment", "vibe-coding", "funding"],
+    "date": "2026-03-13",
+    "source": "business-insider"
+  }
+]

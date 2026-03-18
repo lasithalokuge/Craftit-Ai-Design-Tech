@@ -2364,6 +2364,96 @@
       "title": "Major Figma AI Updates! \u2014 Figma Make Embeds, Select to Edit & More",
       "date": "2026-03-17",
       "category": "update"
+    },
+    {
+      "id": "gamma-imagine-2026-03-17",
+      "title": "Gamma Imagine: AI-Native Design Tool Launch",
+      "date": "2026-03-17",
+      "category": "tool"
+    },
+    {
+      "id": "midjourney-v8-alpha-2026-03-18",
+      "title": "Midjourney V8 Alpha: 5x Faster Generation with 2K Native Resolution",
+      "date": "2026-03-18",
+      "category": "tool"
+    },
+    {
+      "id": "google-antigravity-2026-early",
+      "title": "Google Antigravity: Free Agent-First IDE with Claude Opus 4.6",
+      "date": "2026-03-early",
+      "category": "tool"
+    },
+    {
+      "id": "adobe-firefly-ai-assistant-photoshop-2026-03",
+      "title": "Adobe Photoshop AI Assistant (Public Beta) + Firefly Editor Updates",
+      "date": "2026-03-11",
+      "category": "tool"
+    },
+    {
+      "id": "canva-ai-studio-affinity-2026-03",
+      "title": "Canva AI Studio Integration with Affinity + Real-Time Usage Tracker",
+      "date": "2026-03-16",
+      "category": "tool"
+    },
+    {
+      "id": "openai-gpt-54-mini-nano-2026-03-17",
+      "title": "OpenAI GPT-5.4 Mini and Nano: Optimized for Coding and Speed",
+      "date": "2026-03-17",
+      "category": "tool"
+    },
+    {
+      "id": "flowstep-ai-lovable-alternatives-2026-03",
+      "title": "Flowstep: Design-First Alternative to Code-First AI Builders",
+      "date": "2026-03-13",
+      "category": "tool"
+    },
+    {
+      "id": "claude-code-figma-mcp-bidirectional-2026-03",
+      "title": "Claude Code \u2194 Figma Bidirectional Workflow: Code to Canvas and Back",
+      "date": "2026-03-12",
+      "category": "tool"
+    },
+    {
+      "id": "claude-code-paper-ai-design-2026-03",
+      "title": "Claude Code Can Design Now: Paper AI Integration",
+      "date": "2026-03-11",
+      "category": "tool"
+    },
+    {
+      "id": "figma-ai-vectorize-2026-03",
+      "title": "Figma AI Vectorize Feature: Images to Vectors",
+      "date": "2026-02-26",
+      "category": "tool"
+    },
+    {
+      "id": "figma-make-ai-code-export-2026-03",
+      "title": "Figma Make AI: Code Export for HTML/CSS Generation",
+      "date": "2026-03-11",
+      "category": "tool"
+    },
+    {
+      "id": "lovable-alternatives-comparison-2026-03",
+      "title": "8 Best Lovable Alternatives: Design-First vs Code-First Tools",
+      "date": "2026-03-13",
+      "category": "update"
+    },
+    {
+      "id": "framer-five-tier-pricing-2026-03",
+      "title": "Framer Pricing Restructure: New Five-Tier System",
+      "date": "2026-03-16",
+      "category": "update"
+    },
+    {
+      "id": "ai-design-workflow-ux-ui-2026-03",
+      "title": "The Ultimate AI Design Workflow for UI/UX with Claude Code",
+      "date": "2026-02-26",
+      "category": "tool"
+    },
+    {
+      "id": "vibe-coding-trend-billions-raised-2026-03",
+      "title": "Vibe Coding Boom: Startups Raising Billions for No-Code AI",
+      "date": "2026-03-13",
+      "category": "update"
     }
   ]
 }
