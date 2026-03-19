@@ -1,0 +1,47 @@
+[
+  {
+    "id": "figma-mcp-expanded-partners",
+    "title": "Figma MCP Server — Expanded to 5 New Dev Tools",
+    "url": "https://www.figma.com/release-notes/",
+    "domain": "figma.com",
+    "description": "Figma expanded their Model Context Protocol (MCP) server to include Cursor, Warp, Factory, Firebender, and Augment alongside existing VS Code and Claude integrations. Enables two-way UI-to-code workflows with push rendered UI to canvas and pull design context back into code.",
+    "category": "hot",
+    "tags": ["figma", "mcp", "design-to-code", "workflow"]
+  },
+  {
+    "id": "ux-pilot-figma-plugin",
+    "title": "UX Pilot — AI UI Generator Figma Plugin with High-Fidelity Output",
+    "url": "https://uxpilot.ai/figma-ai",
+    "domain": "uxpilot.ai",
+    "description": "Figma plugin that generates wireframes, high-fidelity screens, and full user flows directly inside Figma projects. Features prompt-to-UI generation with AI that produces low-fidelity flows and polished layouts for mobile and desktop in minutes, with iterative refinement through prompts.",
+    "category": "try",
+    "tags": ["figma", "plugin", "wireframe", "ui-generation"]
+  },
+  {
+    "id": "deque-axe-mcp-server",
+    "title": "Deque axe MCP Server — AI-Powered Accessibility for Design Tools",
+    "url": "https://accessibility.deque.com/axe-mcp-server-demo",
+    "domain": "deque.com",
+    "description": "Deque launched an axe MCP Server that brings AI-powered accessibility knowledge to design and development tools. Will extend to Figma designers, accessibility managers in Power BI, and more, offering natural language AI agents powered by industry-trusted accessibility expertise.",
+    "category": "radar",
+    "tags": ["accessibility", "mcp", "ai", "figma"]
+  },
+  {
+    "id": "banani-ai-funding-850k",
+    "title": "Banani — Ukrainian Startup Raises €850k for AI UI Design Tool",
+    "url": "https://www.banani.co/",
+    "domain": "banani.co",
+    "description": "Ukrainian-founded startup by Vlad Solomakha and Vova Parkhomchuk raised €850k pre-seed funding for their AI-powered UI design tool. Features text-to-UI generation, design-first AI prototyping, and Pay-As-You-Go pricing model at $0.40 per token.",
+    "category": "hot",
+    "tags": ["startup", "funding", "ui-generation", "prototyping"]
+  },
+  {
+    "id": "emergent-ai-100m-arr",
+    "title": "Emergent AI — Reaches $100M ARR in 8 Months, Launches Mobile App",
+    "url": "https://www.businesswire.com/news/home/20260217938088/en/",
+    "domain": "businesswire.com",
+    "description": "Emergent AI, the 'Indian vibe coding tool', achieved $100M annual run rate in just 8 months and launched their mobile app. Platform enables anyone to build full-stack, production-ready web and mobile applications, publish directly to App Store and Google Play.",
+    "category": "hot",
+    "tags": ["full-stack", "mobile", "arr", "vibe-coding"]
+  }
+]
