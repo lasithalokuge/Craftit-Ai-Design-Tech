@@ -1,0 +1,137 @@
+[
+  {
+    "id": "google-stitch-vibe-design",
+    "title": "Google Stitch Gets Major Redesign — 'Vibe Design' for AI UI Creation",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/",
+    "domain": "blog.google",
+    "description": "Google fully overhauled Stitch (formerly Galileo AI) with infinite canvas, voice input, AI-native design agent, instant prototyping, and portable DESIGN.md format. New 'vibe design' approach lets users talk naturally to an AI agent about what they want their app to feel like rather than clicking through menus.",
+    "category": "hot",
+    "tags": ["google", "stitch", "galileo", "voice-ui", "ai-canvas"]
+  },
+  {
+    "id": "moonchild-ai-ui-flows",
+    "title": "Moonchild AI — Multi-Screen UI Generation & Interactive Prototypes",
+    "url": "https://uxplanet.org/ai-tools-designers-should-stick-with-in-2026-49fe5131d345",
+    "domain": "uxplanet.org",
+    "description": "AI tool that generates entire interface layouts and multi-screen flows from text prompts. Creates clickable prototypes, exports to Figma for refinement, supports design systems, and enables chat-based design iteration and critique. Positioned as moving beyond mockups to functional experiences.",
+    "category": "try",
+    "tags": ["ui-generation", "prototyping", "multi-screen", "design-systems"]
+  },
+  {
+    "id": "figmamake-interactive-prototypes",
+    "title": "FigmaMake — Native Figma Plugin for AI Coded Prototypes",
+    "url": "https://uxplanet.org/ai-tools-designers-should-stick-with-in-2026-49fe5131d345",
+    "domain": "uxplanet.org",
+    "description": "Figma plugin that generates coherent interface layouts respecting design patterns and component logic. Creates coded interactive prototypes in minutes, allowing faster testing without leaving Figma. Used by ServiceNow, Ticketmaster, and Affirm for rapid prototyping.",
+    "category": "try",
+    "tags": ["figma", "plugin", "prototyping", "interactive", "code-generation"]
+  },
+  {
+    "id": "figma-vectorize-ai",
+    "title": "Figma Vectorize — AI Raster to Vector Conversion Tool",
+    "url": "https://www.figma.com/newsroom/",
+    "domain": "figma.com",
+    "description": "New AI image editing tool that converts raster images into editable vectors directly in Figma. Allows designers to tweak, refine, and scale designs seamlessly within the platform. Part of Figma's expanded AI toolset for 2026.",
+    "category": "try",
+    "tags": ["figma", "vectorize", "ai-conversion", "image-editing"]
+  },
+  {
+    "id": "uizard-autodesigner-2",
+    "title": "Uizard Autodesigner 2.0 — 'ChatGPT for UI Design'",
+    "url": "https://uizad.com/ai-design/",
+    "domain": "uizad.com",
+    "description": "Updated AI feature that generates multi-screen mockups directly from text descriptions. Available for free with basic usage or through Uizard Pro subscription for unlimited access. Positioned as the ChatGPT equivalent for UI design workflows.",
+    "category": "try",
+    "tags": ["uizard", "multi-screen", "text-to-ui", "chatgpt-like"]
+  },
+  {
+    "id": "v0-ios-app-launch",
+    "title": "v0 by Vercel — iOS App Launch for Mobile Design",
+    "url": "https://v0.app/",
+    "domain": "v0.app",
+    "description": "Vercel's AI-powered UI generation tool now available as iOS app for 'design on the go'. Enables React component creation from text prompts and screenshots using shadcn/ui and Tailwind CSS. Freemium model with 200 credits/month (10 generations) for free tier.",
+    "category": "try",
+    "tags": ["v0", "vercel", "ios-app", "mobile", "react"]
+  },
+  {
+    "id": "locofy-penpot-support",
+    "title": "Locofy AI — Adds Penpot Design Support + Updated Pricing",
+    "url": "https://www.locofy.ai/pricing",
+    "domain": "locofy.ai",
+    "description": "Design-to-code platform now supports Penpot designs alongside Figma. Updated pricing: Pay-As-You-Go at $0.40 per token, Starter plan at $399/year ($0.27 per token), Pro at $1,199/year ($0.20 per token). SOC2 + ISO certified with on-prem deployment options.",
+    "category": "try",
+    "tags": ["locofy", "penpot", "pricing", "design-to-code"]
+  },
+  {
+    "id": "framer-ai-plugins",
+    "title": "Framer AI — Build Custom AI Plugins with OpenAI/Anthropic/Gemini",
+    "url": "https://www.framer.com/ai/",
+    "domain": "framer.com",
+    "description": "Framer now allows building custom 3rd party AI plugins connecting with OpenAI, Anthropic, and Gemini models. Features AI layout creation, SEO assistance, instant publishing, and CMS that lets teams update copy without touching design.",
+    "category": "try",
+    "tags": ["framer", "ai-plugins", "openai", "anthropic", "gemini"]
+  },
+  {
+    "id": "teleporthq-ai-layout-generation",
+    "title": "TeleportHQ — AI Layout Generation + Multi-Framework Export",
+    "url": "https://teleporthq.io/design-to-code",
+    "domain": "teleporthq.io",
+    "description": "AI-powered design-to-code platform featuring AI layout generation, text-based editing, visual editor, and multi-framework export (React, Next.js, Vue, HTML/CSS). Converts designs and images to functional code with headless content modeling and one-click publishing.",
+    "category": "try",
+    "tags": ["teleporthq", "ai-layout", "multi-framework", "design-to-code"]
+  },
+  {
+    "id": "anima-vibe-coding-bolt",
+    "title": "Anima — 'Vibe Coding' Feature + Bolt.new Integration",
+    "url": "https://www.animaapp.com/",
+    "domain": "animaapp.com",
+    "description": "Figma-to-code tool added 'vibe coding' starting point feature and Bolt.new integration. Analyzes Figma layers, auto-detects components, responsive breakpoints, and interactive states. Connects Figma to coding AI agents via Anima API for pixel-perfect, production-ready code.",
+    "category": "try",
+    "tags": ["anima", "vibe-coding", "bolt", "figma-to-code"]
+  },
+  {
+    "id": "adobe-firefly-unlimited",
+    "title": "Adobe Firefly — Unlimited AI Generation + Multi-Model Access",
+    "url": "https://blog.adobe.com/en/publish/2026/02/02/create-unlimited-generations-adobe-firefly-all-in-one-creative-ai-studio",
+    "domain": "blog.adobe.com",
+    "description": "Adobe Firefly now offers unlimited AI image and video generation for paid subscribers. Integrates Google Nano Banana Pro, GPT Image Generation, Runway Gen-4 Image, plus Adobe's own Firefly models. Full video model integration released in early 2026.",
+    "category": "hot",
+    "tags": ["adobe", "firefly", "unlimited", "multi-model", "video"]
+  },
+  {
+    "id": "penpot-mcp-experiment",
+    "title": "Penpot — Experimenting with MCP Servers for AI Design Workflows",
+    "url": "https://www.smashingmagazine.com/2026/01/penpot-experimenting-mcp-servers-ai-powered-design-workflows/",
+    "domain": "smashingmagazine.com",
+    "description": "Open-source design platform experimenting with Model Context Protocol (MCP) servers for AI-powered design workflows. Could enable designers and developers to perform AI tasks that understand and interact with Penpot design files. Partnership with Neurons Lab for AI-Powered Design Co-Pilot.",
+    "category": "radar",
+    "tags": ["penpot", "mcp", "open-source", "ai-copilot"]
+  },
+  {
+    "id": "midjourney-v7-ui-mockups",
+    "title": "Midjourney v7 — Viable UI Mockups & Logo Design Output",
+    "url": "https://textify.ai/midjourney-v7-2026-the-complete-creative-workflow-guide-for-professionals/",
+    "domain": "textify.ai",
+    "description": "Midjourney v7 now produces viable logo drafts, UI mockups, and branding assets rather than just placeholders. Features accurate text in mockups, consistent brand assets with unified style using --sref, and 'natural imperfection' modeling for authentic outputs.",
+    "category": "try",
+    "tags": ["midjourney", "ui-mockups", "branding", "text-accuracy"]
+  },
+  {
+    "id": "unicorn-3d-effects",
+    "title": "Unicorn — Free Browser-Based 3D Effects for Images",
+    "url": "https://medium.com/design-bootcamp/5-new-ai-design-tools-to-try-in-2026-bba38068b142",
+    "domain": "medium.com",
+    "description": "Free web-based tool that enables designers to add 3D effects to images and shapes. Runs smoothly in any browser, allows uploading images and overlaying them with 3D effects. Positioned as accessible tool for adding depth to design work without complex software.",
+    "category": "try",
+    "tags": ["3d-effects", "free", "browser-based", "image-overlay"]
+  },
+  {
+    "id": "lovart-ai-workspace",
+    "title": "Lovart — Multi-Model AI Design Workspace with Canvas Editor",
+    "url": "https://www.bizrescuepro.com/lovart-ai-design-workspace-tutorial/",
+    "domain": "bizrescuepro.com",
+    "description": "AI design workspace with multi-model access including NanoBanana Pro, Midjourney v7, and specialty engines. Features skill-driven workflows for social media, e-commerce, branding, UI, and video storyboards. Canvas editor with selection tools and immediate mockup editing capability.",
+    "category": "try",
+    "tags": ["lovart", "multi-model", "canvas-editor", "skill-workflows"]
+  }
+]
