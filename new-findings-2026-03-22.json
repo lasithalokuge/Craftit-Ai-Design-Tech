@@ -1,0 +1,149 @@
+{
+  "date": "2026-03-22",
+  "description": "Daily AI design research findings for March 22, 2026. Focus on new tools, emerging trends, and significant updates not previously tracked.",
+  "findings": [
+    {
+      "id": "jane-street-claude-over-figma",
+      "title": "Jane Street: \"I design with Claude more than Figma now\"",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "source_url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "description": "Leading fintech firm shares real experience of Claude Code becoming primary design tool. Some projects now skip Figma entirely, iterating on visual design from beginning with Claude. Represents major workflow shift happening in real companies.",
+      "verdict": "Major signal — when Jane Street (top fintech) chooses Claude Code over Figma for design, it indicates fundamental workflow change",
+      "category": "hot",
+      "tags": ["claude-code", "figma-alternative", "enterprise", "workflow-shift"],
+      "is_youtube": false
+    },
+    {
+      "id": "figma-code-to-canvas-official-blog",
+      "title": "From Claude Code to Figma: Turning Production Code into Editable Figma Designs",
+      "url": "https://www.figma.com/blog/introducing-claude-code-to-figma/",
+      "source_url": "https://www.figma.com/blog/introducing-claude-code-to-figma/",
+      "description": "Official Figma blog post announcing bidirectional Claude Code integration. AI changes what 'starting' looks like - creating shifts design conversation from 'how to make' to 'which version to expand on'. Supports all ways of working in Figma.",
+      "verdict": "Game-changer — Official Figma endorsement of code-first design workflows. Bidirectional flow is now reality.",
+      "category": "hot",
+      "tags": ["figma", "claude-code", "bidirectional", "official", "mcp"],
+      "is_youtube": false
+    },
+    {
+      "id": "claude-figma-mcp-updated-setup-yt",
+      "title": "Claude + Figma MCP — Updated Setup for Designers",
+      "url": "https://www.youtube.com/watch?v=wCvtTQ-CTgU",
+      "source_url": "https://www.youtube.com/watch?v=wCvtTQ-CTgU",
+      "description": "6-day-old step-by-step tutorial for connecting Claude to Figma using MCP server. Updated guide walks through exact setup process for designers and non-coders.",
+      "verdict": "Essential tutorial — Fresh setup guide for the Claude-Figma integration that's becoming standard",
+      "category": "try",
+      "tags": ["claude", "figma", "mcp", "setup", "tutorial"],
+      "is_youtube": true
+    },
+    {
+      "id": "magic-patterns-figma-make-alternatives",
+      "title": "Top Figma Make Alternatives in 2026: AI-Powered Design Tools",
+      "url": "https://www.magicpatterns.com/blog/figma-make-alternatives",
+      "source_url": "https://www.magicpatterns.com/blog/figma-make-alternatives",
+      "description": "Comprehensive guide to Figma Make alternatives including key features and AI capabilities. Helps teams navigate the rapidly evolving UI/UX design industry with AI-powered tools.",
+      "verdict": "Solid resource — Good overview for teams evaluating Figma Make vs alternatives",
+      "category": "tip",
+      "tags": ["figma-make", "alternatives", "comparison", "ai-tools"],
+      "is_youtube": false
+    },
+    {
+      "id": "flowstep-best-ai-tools-designers-2026",
+      "title": "10 Best AI Tools for Designers: 2026 Top Picks",
+      "url": "https://flowstep.ai/blog/best-ai-tools-for-designers/",
+      "source_url": "https://flowstep.ai/blog/best-ai-tools-for-designers/",
+      "description": "Published 5 days ago, covers Flowstep, Figma Make and 8 more top picks to speed up UI/UX workflows. Fresh perspective on tools that actually work for design teams in 2026.",
+      "verdict": "Current insight — Recent analysis of tools actually working for designers right now",
+      "category": "tip",
+      "tags": ["flowstep", "design-tools", "comparison", "workflow"],
+      "is_youtube": false
+    },
+    {
+      "id": "ai-design-workflow-2026-youtube",
+      "title": "How I use (and don't use) AI to design better in 2026",
+      "url": "https://www.youtube.com/watch?v=2u6bH17NIQk",
+      "source_url": "https://www.youtube.com/watch?v=2u6bH17NIQk",
+      "description": "1-week-old video showing practical AI design workflow in 2026. Real designer shares what actually works vs hype. Includes Figma Make trial link.",
+      "verdict": "Practical guide — Real designer showing what AI tools actually help vs marketing promises",
+      "category": "tip",
+      "tags": ["ai-workflow", "figma-make", "practical", "real-world"],
+      "is_youtube": true
+    },
+    {
+      "id": "buildbetter-ai-ux-research-tools-2026",
+      "title": "Best AI Tools for UX Research in 2026: 18 Tools Compared",
+      "url": "https://blog.buildbetter.ai/best-ai-tools-ux-research-2026/",
+      "source_url": "https://blog.buildbetter.ai/best-ai-tools-ux-research-2026/",
+      "description": "3-day-old comprehensive comparison of 18 UX research tools. Covers pricing from free (BB Recorder, Hotjar basic) to enterprise ($300-500+/month). Includes Maze, Dovetail, UserTesting, FullStory evolution.",
+      "verdict": "Essential reference — Most current pricing and feature comparison for UX research tools",
+      "category": "try",
+      "tags": ["ux-research", "maze", "dovetail", "hotjar", "comparison", "pricing"],
+      "is_youtube": false
+    },
+    {
+      "id": "design-tokens-ai-workflow-figma-yt",
+      "title": "Build Design Tokens & Figma Variables with AI",
+      "url": "https://www.youtube.com/watch?v=rYzstFEY0t8",
+      "source_url": "https://www.youtube.com/watch?v=rYzstFEY0t8",
+      "description": "January 2026 video showing AI-first workflow for generating design tokens and Figma variables. New approach to building tokens using AI rather than manual creation.",
+      "verdict": "New workflow — AI-first token generation could save significant manual work",
+      "category": "try",
+      "tags": ["design-tokens", "figma-variables", "ai-workflow", "automation"],
+      "is_youtube": true
+    },
+    {
+      "id": "v0-bolt-lovable-comparison-2026",
+      "title": "v0 vs Bolt vs Lovable 2026: Best AI App Builders & Vibe Coding Tools Compared",
+      "url": "https://freeacademy.ai/blog/v0-vs-bolt-vs-lovable-ai-app-builders-comparison-2026",
+      "source_url": "https://freeacademy.ai/blog/v0-vs-bolt-vs-lovable-ai-app-builders-comparison-2026",
+      "description": "Comprehensive 2026 comparison of major AI app builders. v0 wins on UI quality and design workflows, Bolt wins on full-stack flexibility, Lovable wins on accessibility for non-technical users and enterprise compliance.",
+      "verdict": "Clear breakdown — Helps teams choose the right AI builder based on specific needs",
+      "category": "tip",
+      "tags": ["v0", "bolt", "lovable", "ai-builders", "comparison", "vibe-coding"],
+      "is_youtube": false
+    },
+    {
+      "id": "accessibility-testing-2026-wcag-compliance",
+      "title": "10 AI-Powered WCAG Tools That Actually Fix Accessibility Issues",
+      "url": "https://testparty.ai/blog/10-ai-powered-wcag-tools-that-actually-fix-accessibility-issues",
+      "source_url": "https://testparty.ai/blog/10-ai-powered-wcag-tools-that-actually-fix-accessibility-issues",
+      "description": "Curated list of AI accessibility tools that go beyond detection to actually fix issues. Covers NVDA sessions with automated scanners to bridge technical compliance with real usability.",
+      "verdict": "Critical for compliance — AI accessibility tools are essential with EAA deadline approaching",
+      "category": "radar",
+      "tags": ["accessibility", "wcag", "ai-tools", "compliance", "testing"],
+      "is_youtube": false
+    },
+    {
+      "id": "lottiefiles-alternatives-2026-motion",
+      "title": "Best LottieFiles alternatives (2026)",
+      "url": "https://www.producthunt.com/products/lottiefiles/alternatives",
+      "source_url": "https://www.producthunt.com/products/lottiefiles/alternatives",
+      "description": "14-hour-old Product Hunt list exploring LottieFiles alternatives like Jitter, Rive, Creattie, Lottiebox, and Loaf for faster motion design, interactive graphics, and assets. Motion design workflow alternatives.",
+      "verdict": "Fresh options — Multiple alternatives emerging for motion design workflows",
+      "category": "radar",
+      "tags": ["lottiefiles", "jitter", "rive", "motion-design", "alternatives"],
+      "is_youtube": false
+    },
+    {
+      "id": "design-system-mastery-figma-variables-2026",
+      "title": "Design System Mastery with Figma Variables: The 2025/2026 Best-Practice Playbook",
+      "url": "https://www.designsystemscollective.com/design-system-mastery-with-figma-variables-the-2025-2026-best-practice-playbook-da0500ca0e66",
+      "source_url": "https://www.designsystemscollective.com/design-system-mastery-with-figma-variables-the-2025-2026-best-practice-playbook-da0500ca0e66",
+      "description": "September 2025 guide covering how AI is revolutionizing variable handling. AI-powered linting bots scan Figma files for naming errors, type mismatches, accessibility failures, and duplicate tokens.",
+      "verdict": "Advanced workflow — AI linting for design systems is becoming practical",
+      "category": "tip",
+      "tags": ["design-systems", "figma-variables", "ai-linting", "automation"],
+      "is_youtube": false
+    },
+    {
+      "id": "codeconductor-figma-make-enterprise-alternative",
+      "title": "Best Figma Make Alternative for Secure Enterprise AI Apps",
+      "url": "https://codeconductor.ai/blog/figma-make-alterantive/",
+      "source_url": "https://codeconductor.ai/blog/figma-make-alterantive/",
+      "description": "1-week-old analysis of enterprise Figma Make alternatives. Many teams need more than design automation - they need security, governance, and full development capabilities.",
+      "verdict": "Enterprise gap — Figma Make isn't enough for enterprise teams with security requirements",
+      "category": "radar",
+      "tags": ["codeconductor", "figma-make", "enterprise", "security", "alternative"],
+      "is_youtube": false
+    }
+  ]
+}
