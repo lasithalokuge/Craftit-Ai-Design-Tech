@@ -1,0 +1,138 @@
+{
+  "date": "2026-03-25",
+  "description": "Daily AI design research findings for March 25, 2026. Focus on new tools, emerging trends, and significant updates not previously tracked.",
+  "findings": [
+    {
+      "id": "google-stitch-march-update-voice-canvas",
+      "title": "Google Stitch March 2026: Voice Canvas & DESIGN.md Revolution",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/",
+      "description": "Google's massive Stitch update introduces voice-powered design, infinite canvas, and DESIGN.md — a portable design system format. Voice interaction lets you design hands-free, while DESIGN.md makes design systems portable across tools. Caused Figma stock to drop 8-12%.",
+      "verdict": "Try it",
+      "category": "hot",
+      "tags": ["google-stitch", "voice-design", "design-systems", "vibe-design"],
+      "is_youtube": false
+    },
+    {
+      "id": "figma-ai-agents-canvas-beta",
+      "title": "Figma AI Agents on Canvas (Open Beta) — Game Changer",
+      "url": "https://www.youtube.com/watch?v=vQMeJMgxRQY",
+      "source_url": "https://www.youtube.com/watch?v=vQMeJMgxRQY",
+      "description": "Just launched 12 hours ago! AI agents can now design directly on Figma canvas in open beta. You can guide agents with context about your team, brand, and workflows. This could fundamentally change how teams approach design collaboration.",
+      "verdict": "Try it",
+      "category": "hot",
+      "tags": ["figma", "ai-agents", "canvas", "collaboration"],
+      "is_youtube": true
+    },
+    {
+      "id": "canva-magic-layers-march-2026",
+      "title": "Canva Magic Layers — Turn Any Image Into Editable Layers",
+      "url": "https://www.youtube.com/shorts/Z_wfYkQ5TH4",
+      "source_url": "https://www.upskillist.com/blog/best-ai-graphic-design-tools/",
+      "description": "Canva's March 2026 breakthrough: Magic Layers breaks down flat PNG/JPG images into editable layers in 8-15 seconds. Massive time-saver for repurposing designs and working with client assets that weren't originally layered.",
+      "verdict": "Try it",
+      "category": "hot",
+      "tags": ["canva", "image-processing", "layers", "automation"],
+      "is_youtube": true
+    },
+    {
+      "id": "ux-to-ax-john-maeda-2026",
+      "title": "UX to AX: John Maeda's Design in Tech Report 2026",
+      "url": "https://johnmaeda.medium.com/design-in-tech-report-2026-from-ux-to-ax-f9d83164f4d2",
+      "source_url": "https://johnmaeda.medium.com/design-in-tech-report-2026-from-ux-to-ax-f9d83164f4d2",
+      "description": "Major conceptual shift: John Maeda argues we're moving from User Experience (UX) to Agentic Experience (AX). As AI agents become the primary interface, designers must think about agent workflows, not just human interactions.",
+      "verdict": "Watch it",
+      "category": "radar",
+      "tags": ["ux", "ai-agents", "design-philosophy", "john-maeda"],
+      "is_youtube": false
+    },
+    {
+      "id": "figma-make-credit-enforcement-march-2026",
+      "title": "Figma Make Credit Limits Now Enforced — Major Pricing Change",
+      "url": "https://forum.figma.com/ask-the-community-7/inquiry-regarding-figma-make-credit-top-up-options-52156",
+      "source_url": "https://forum.figma.com/ask-the-community-7/inquiry-regarding-figma-make-credit-top-up-options-52156",
+      "description": "Figma began enforcing AI credit limits on March 18, 2026. Free plan gets 500 credits/month with 150/day cap. This fundamentally changes Figma Make economics — teams need to budget for AI usage. Paid plans required for serious usage.",
+      "verdict": "Watch it",
+      "category": "update",
+      "tags": ["figma", "pricing", "ai-credits", "monetization"],
+      "is_youtube": false
+    },
+    {
+      "id": "into-design-systems-conference-march-2026",
+      "title": "Into Design Systems Conference 2026: AI Design Systems Track",
+      "url": "https://www.intodesignsystems.com/agenda",
+      "source_url": "https://www.intodesignsystems.com/agenda",
+      "description": "March 19-20 conference featured dedicated tracks on AI Design Systems, Vibe Coding, and MCP integrations. Speakers from WhatsApp, Miro, and Indeed shared real-world AI design automation implementations. Shows industry momentum.",
+      "verdict": "Watch it",
+      "category": "radar",
+      "tags": ["conference", "design-systems", "ai", "industry"],
+      "is_youtube": false
+    },
+    {
+      "id": "v0-diff-view-march-2026",
+      "title": "v0 by Vercel: New Diff View for Better Code Review",
+      "url": "https://community.vercel.com/t/vercel-weekly-2026-03-23/36662",
+      "source_url": "https://community.vercel.com/t/vercel-weekly-2026-03-23/36662",
+      "description": "v0 introduces dedicated diff view with file-by-file code changes and line-by-line addition/deletion counts. Makes it easier for designers to review AI-generated code changes and understand what the AI actually changed.",
+      "verdict": "Try it",
+      "category": "tip",
+      "tags": ["v0", "vercel", "code-review", "diff"],
+      "is_youtube": false
+    },
+    {
+      "id": "claude-cowork-for-designers-masterclass",
+      "title": "Claude Cowork for Designers — Full Beginner Masterclass",
+      "url": "https://www.youtube.com/watch?v=afMFZGjQH0w",
+      "source_url": "https://www.youtube.com/watch?v=afMFZGjQH0w",
+      "description": "Claude Cowork represents a major shift: instead of just chatting with AI, you can give it access to your files and it organizes your entire design workflow. This is 'one of the biggest shifts in AI for designers' according to this comprehensive tutorial.",
+      "verdict": "Try it",
+      "category": "hot",
+      "tags": ["claude", "workflow", "file-management", "collaboration"],
+      "is_youtube": true
+    },
+    {
+      "id": "apple-m5-chips-ai-design-performance",
+      "title": "Apple M5 Pro/Max: 4x Faster AI Design Performance",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "source_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "description": "New M5 Pro/Max chips deliver 4x faster LLM prompt processing and 8x faster AI image generation vs M4. Neural Accelerator in each GPU core. Massive hardware upgrade for AI design workflows — could make local AI design tools much more viable.",
+      "verdict": "Watch it",
+      "category": "radar",
+      "tags": ["apple", "hardware", "m5", "performance"],
+      "is_youtube": false
+    },
+    {
+      "id": "claude-ai-figma-plugin-design-system-generator",
+      "title": "Claude AI Plugin for Figma — Generates Design Systems in Minutes",
+      "url": "https://www.youtube.com/watch?v=3Oy41LjYPAc",
+      "source_url": "https://www.youtube.com/watch?v=3Oy41LjYPAc",
+      "description": "Someone built a working Claude AI plugin that lives inside Figma and can generate complete design systems from natural language descriptions. Watch it build components, variables, and styles live. Could be a preview of official Figma AI integrations.",
+      "verdict": "Try it",
+      "category": "hot",
+      "tags": ["claude", "figma", "plugin", "design-systems"],
+      "is_youtube": true
+    },
+    {
+      "id": "design-md-portable-format-controversy",
+      "title": "DESIGN.md Controversy: Should It Be Open Standard?",
+      "url": "https://www.reddit.com/r/UXDesign/comments/1s0bmvj/google_teased_a_designmd_standard_for_ai_design/",
+      "source_url": "https://www.reddit.com/r/UXDesign/comments/1s0bmvj/google_teased_a_designmd_standard_for_ai_design/",
+      "description": "Community pushback: Google's DESIGN.md format is Stitch-only, not an open standard. Designers want a portable format that Figma, Cursor, and other tools could read. Missed opportunity for true design system interoperability.",
+      "verdict": "Watch it",
+      "category": "radar",
+      "tags": ["design-systems", "standards", "interoperability", "controversy"],
+      "is_youtube": false
+    },
+    {
+      "id": "vibe-design-tools-comparison-march-2026",
+      "title": "Vibe Design Tools Compared: Stitch vs v0 vs Lovable vs Bolt",
+      "url": "https://www.nxcode.io/resources/news/vibe-design-tools-compared-stitch-v0-lovable-2026",
+      "source_url": "https://www.nxcode.io/resources/news/vibe-design-tools-compared-stitch-v0-lovable-2026",
+      "description": "Comprehensive comparison of the new 'vibe design' tools. Google Stitch's voice canvas update is the tipping point that's making traditional design teams take AI seriously. Each tool has different strengths for design-to-code workflows.",
+      "verdict": "Try it",
+      "category": "tip",
+      "tags": ["comparison", "vibe-design", "tools", "workflow"],
+      "is_youtube": false
+    }
+  ]
+}
